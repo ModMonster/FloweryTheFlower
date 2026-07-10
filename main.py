@@ -1,6 +1,7 @@
 import json
 import sys
-
+import os
+import pickle
 from sentence_transformers import SentenceTransformer
 from sentence_transformers.util import cos_sim
 
@@ -13,12 +14,22 @@ with open("flowery.json", "r") as f:
 
 texts = [e["text"] for e in examples]
 
-# Turn every example into an embedding
-example_embeddings = model.encode(texts)
+if os.path.exists("flowery.pkl"):
+    with open("flowery.pkl", "rb") as f:
+        cache = pickle.load(f)
+        example_embeddings = cache["embeddings"]
+else:
+    print("Cache file not found, creating now")
+    example_embeddings = model.encode(texts, convert_to_tensor=True)
+
+    with open("flowery.pkl", "wb") as f:
+        pickle.dump({
+            "embeddings": example_embeddings
+        }, f)
 
 # Turn the provided message into an embedding
 message = sys.argv[1]
-message_embedding = model.encode(message)
+message_embedding = model.encode(message, convert_to_tensor=True)
 
 # Compare against examples; score
 scores = cos_sim(message_embedding, example_embeddings)[0]
