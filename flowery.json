@@ -1,0 +1,6292 @@
+[
+  {
+    "text": "hello",
+    "sprite": "happy",
+    "voice": "heyguys"
+  },
+  {
+    "text": "lol",
+    "sprite": "happy",
+    "voice": "flowery"
+  },
+  {
+    "text": "go away",
+    "sprite": "sheepish",
+    "voice": "go_home"
+  },
+  {
+    "text": "won't be here, but have fun gang!",
+    "voice": "sorrytokeepyouwaiting1",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "I'm here suckers!!!!!",
+    "voice": "heyguys",
+    "sprite": "happy"
+  },
+  {
+    "text": "you thought you could get rid of me that easily",
+    "voice": "say_that_again",
+    "sprite": "evil_laugh"
+  },
+  {
+    "text": "oh wow. amaze. this is the very first time I have seen you today",
+    "voice": "itsme",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "yoooooooo",
+    "voice": "jarona1",
+    "sprite": "happy"
+  },
+  {
+    "text": "I wish I had money to buy merch :(",
+    "voice": "and_one_more_for_the_fans",
+    "sprite": "sheepish"
+  },
+  {
+    "text": "hello",
+    "voice": "heyguys",
+    "sprite": "happy"
+  },
+  {
+    "text": "I'm so freakin excited!!!!",
+    "voice": "hereicomesanfrandisco_strong",
+    "sprite": "happy"
+  },
+  {
+    "text": "and I am an Arabic from Algeria",
+    "voice": "itsmeflowery",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "the newest chapter is pretty divisive",
+    "voice": "no_way_its_your_children",
+    "sprite": "worried"
+  },
+  {
+    "text": "what up",
+    "voice": "heyguys",
+    "sprite": "happy"
+  },
+  {
+    "text": "mod is back?",
+    "voice": "my_king",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "explain lore",
+    "voice": "say_that_again",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "where green screen",
+    "voice": "wow",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "Yall can't stay cuz I don't want chapter spoilers but hey hi hello welcome back mod!",
+    "voice": "flowers_blooms_in_your_heart",
+    "sprite": "happy"
+  },
+  {
+    "text": "have to go be back soon",
+    "voice": "goodbye",
+    "sprite": "hurt"
+  },
+  {
+    "text": "your chest looks more buff. have you been working out?",
+    "voice": "all_according_to_all_according_to_plant",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "is the house an apartment?",
+    "voice": "go_home",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "ur house",
+    "voice": "go_home",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "is mod on hrt?...",
+    "voice": "heyguysithinkifoundaglue",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "are we gonna have mammonster",
+    "voice": "heyguysithinkifoundaglue",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "we have mammonster",
+    "voice": "my_human",
+    "sprite": "happy"
+  },
+  {
+    "text": "back but only temporary:(",
+    "voice": "itsme",
+    "sprite": "happy_less"
+  },
+  {
+    "text": "or is it his outfit?",
+    "voice": "say_that_again",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "transgender mod would be insane",
+    "voice": "mysterious_wind",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "the fact mods isn't confirmed or denying the transgender accusations is interesting",
+    "voice": "what_a_predictable_creature",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "my grandparents are coming over at 8 and I really don't wanna deal with them. :( :(",
+    "voice": "imsorryonceagainikeptaladyinwaiting",
+    "sprite": "hurt"
+  },
+  {
+    "text": "Ur welcome I got u anyone else want popcorn",
+    "voice": "try_my_flavor",
+    "sprite": "happy"
+  },
+  {
+    "text": "I just wanted to watch funny deltad rune",
+    "voice": "nonono",
+    "sprite": "hurt"
+  },
+  {
+    "text": "is this mod monster girlfriend",
+    "voice": "no_way_its_your_children",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "monster get a woman???",
+    "voice": "sorrytokeepyouladies",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "Mod has a spouse already bro",
+    "voice": "my_favorite_two",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "We've been to their many weddings",
+    "voice": "blingo_blizzard",
+    "sprite": "happy"
+  },
+  {
+    "text": "Wait",
+    "voice": "kris",
+    "sprite": "sheepish"
+  },
+  {
+    "text": "ON A SPOUSE",
+    "sprite": "happy_questioning_mocking",
+    "voice": "huh"
+  },
+  {
+    "text": "I wish I could :(",
+    "sprite": "happy_distressed",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "I'M ALMOST A BEACON",
+    "sprite": "happy_proud",
+    "voice": "stingus"
+  },
+  {
+    "text": "Maybe jerios has bromentia too",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "it makes sense now. Alex made mod a femboy!",
+    "sprite": "evil_laugh",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "I agree",
+    "sprite": "happy",
+    "voice": "yes"
+  },
+  {
+    "text": "I love this chapter",
+    "sprite": "happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "PUT THAT ON A MERCH SHIRT",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "Please",
+    "sprite": "worried",
+    "voice": "sorrytokeepyouwaiting1"
+  },
+  {
+    "text": "what shirt are you wearing right now?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "great_style"
+  },
+  {
+    "text": "“Alix made mod a femboy”",
+    "sprite": "cheeky",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "you are so yellow coded",
+    "sprite": "happy",
+    "voice": "great_style"
+  },
+  {
+    "text": "omg I remember when we thrifted that",
+    "sprite": "happy",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "Anyway yall im gonna leave some popcorn in dipping before i get spoilers",
+    "sprite": "happy",
+    "voice": "goodbye"
+  },
+  {
+    "text": "I'm gonna be honest, the sweater makes him look like he has boobs which is where those jokes came from lol",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "🍿🍿🍿🍿🍿",
+    "sprite": "happy",
+    "voice": "give_to_you"
+  },
+  {
+    "text": "damn the economy",
+    "sprite": "worried",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "Bye chat 🫡",
+    "sprite": "happy",
+    "voice": "goodbye"
+  },
+  {
+    "text": "you gotta shop pizza pants with ice cream man",
+    "sprite": "happy_questioning_mocking",
+    "voice": "give_to_you"
+  },
+  {
+    "text": "AND BUTTER",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "how do I tell funny jokes mam. I swear they are always bland and offensive....",
+    "sprite": "happy_distressed",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "it's the best option... in the long run... I think",
+    "sprite": "worried",
+    "voice": "get_a_chance_2"
+  },
+  {
+    "text": "man",
+    "sprite": "happy_questioning_mocking",
+    "voice": "flowery"
+  },
+  {
+    "text": "the pixel art is nice",
+    "sprite": "happy",
+    "voice": "great_style"
+  },
+  {
+    "text": "Toby says \"go this way!!!!!!\"",
+    "sprite": "happy_proud",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "better than before I think",
+    "sprite": "happy",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "beat climbing puzzle",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "beat climbing game",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "do it get best time",
+    "sprite": "happy_proud",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "I only just learnt through a meme that ral is a boy",
+    "sprite": "happy_questioning_mocking",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "for your theory",
+    "sprite": "happy",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "does clip command work now?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "!clip",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "in church",
+    "sprite": "happy_questioning_mocking",
+    "voice": "hereicome"
+  },
+  {
+    "text": "climb game",
+    "sprite": "happy",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "climb to too so fast",
+    "sprite": "happy_proud",
+    "voice": "stingus"
+  },
+  {
+    "text": "go to the top fast",
+    "sprite": "happy_proud",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "win proof for theory",
+    "sprite": "happy_proud",
+    "voice": "stingus"
+  },
+  {
+    "text": "show us your closet. I wanna see mod's amazing fashion.",
+    "sprite": "cheeky",
+    "voice": "great_style"
+  },
+  {
+    "text": "if it was you wouldn't be doing any of this",
+    "sprite": "happy_questioning_mocking",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "snow grave this chapter is fucking crzy",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "you just aren't allowed to play thale chapter",
+    "sprite": "cheeky",
+    "voice": "go_home"
+  },
+  {
+    "text": "wait you can start a YouTube short Livestream and stream your closet as a YouTube shorts Livestream",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "get the best time",
+    "sprite": "happy_proud",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "ahhhhhhh",
+    "sprite": "happy_shocked",
+    "voice": "hoo"
+  },
+  {
+    "text": "we all know mod is a secret fashion designer",
+    "sprite": "cheeky",
+    "voice": "its_all_in_a_name"
+  },
+  {
+    "text": "do you have a phone nearby Imma call you",
+    "sprite": "happy_questioning_mocking",
+    "voice": "kris"
+  },
+  {
+    "text": "omg it's happening !!!!!!!!!!!",
+    "sprite": "happy_shocked",
+    "voice": "jarona1"
+  },
+  {
+    "text": "is ral conically a femboy?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "yooo based",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "bro pick up",
+    "sprite": "worried",
+    "voice": "kris"
+  },
+  {
+    "text": "cool_g15 is a girl?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "what happened?? 😭",
+    "sprite": "happy_shocked",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "what just happened? 😭",
+    "sprite": "happy_shocked",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "Did you know that things that are green are green?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "Nolan go back to your job",
+    "sprite": "cheeky",
+    "voice": "go_home"
+  },
+  {
+    "text": "we have a Matt pat theory of if ral is femboy",
+    "sprite": "evil_laugh",
+    "voice": "dont_you_like_serving_humans"
+  },
+  {
+    "text": "damn",
+    "sprite": "happy_questioning_mocking",
+    "voice": "huh"
+  },
+  {
+    "text": "racism",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "oh oh oh give ralsie the tiara",
+    "sprite": "happy_shocked",
+    "voice": "yes"
+  },
+  {
+    "text": "sorry give suise the tiara",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "give ral the tiara",
+    "sprite": "happy",
+    "voice": "yes"
+  },
+  {
+    "text": "I think ralsei just looks like that",
+    "sprite": "happy_questioning_mocking",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "make him femboy",
+    "sprite": "cheeky",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "please femboy",
+    "sprite": "worried",
+    "voice": "heytherelittleguy"
+  },
+  {
+    "text": "tiara!!!!!!!",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "@Jerios what presentation?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "I thought you were talking about star fox lol not Toby",
+    "sprite": "happy",
+    "voice": "its_so_human"
+  },
+  {
+    "text": "damn it the tiara Easter egg didn't go through. stupid duck canceled it out >:(",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "why do you suck at Easter eggs!!!!",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "what's the dialogue for a professional outfit is my question",
+    "sprite": "happy_questioning_mocking",
+    "voice": "kris"
+  },
+  {
+    "text": "are you frozen?????",
+    "sprite": "worried",
+    "voice": "mostlys"
+  },
+  {
+    "text": "what if you choose no outfit??",
+    "sprite": "happy_questioning_mocking",
+    "voice": "kris"
+  },
+  {
+    "text": "TOLD YOU",
+    "sprite": "happy_proud",
+    "voice": "stingus"
+  },
+  {
+    "text": "the theory is getting proved so hard",
+    "sprite": "evil_laugh",
+    "voice": "stingus"
+  },
+  {
+    "text": "what does 0 sugar taste like never tried it tbh",
+    "sprite": "happy_questioning_mocking",
+    "voice": "the_diner"
+  },
+  {
+    "text": "golden Sam please :)",
+    "sprite": "happy",
+    "voice": "give_to_you"
+  },
+  {
+    "text": "I like him and his family",
+    "sprite": "kawaii",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "cage in basement",
+    "sprite": "happy_distressed",
+    "voice": "try_my_flavor"
+  },
+  {
+    "text": "angy hamter",
+    "sprite": "kawaii",
+    "voice": "flowery"
+  },
+  {
+    "text": "Guys I figured it out... mod is transitioning for an accurate ral cosplay.",
+    "sprite": "evil_laugh",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "based",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "maybe one day we will have a full cosplay",
+    "sprite": "happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "damn queen in da closet",
+    "sprite": "cheeky",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "talk to queen",
+    "sprite": "happy",
+    "voice": "yes"
+  },
+  {
+    "text": "Toby fox's dialogue is gold",
+    "sprite": "happy_proud",
+    "voice": "great_style"
+  },
+  {
+    "text": "god I love queen",
+    "sprite": "happy",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "talk to lancer",
+    "sprite": "happy",
+    "voice": "yes"
+  },
+  {
+    "text": "(he's the ball)",
+    "sprite": "happy_questioning_mocking",
+    "voice": "try_my_flavor"
+  },
+  {
+    "text": "it's on fire!?!!??!!!",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "what",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "friend diamond is here!",
+    "sprite": "happy",
+    "voice": "heyguys"
+  },
+  {
+    "text": "true!",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "sorry it took so long",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "damn evil Kris is so evil coded",
+    "sprite": "evil_laugh",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "honestly, imagine if delta rune got voice acting. how would ral sound like?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "no horse costume:(",
+    "sprite": "happy_distressed",
+    "voice": "forget_it"
+  },
+  {
+    "text": "don't worry things get trauma soon :)",
+    "sprite": "evil_laugh",
+    "voice": "dont_you_like_serving_humans"
+  },
+  {
+    "text": "Kris is me in this situation",
+    "sprite": "happy",
+    "voice": "kris"
+  },
+  {
+    "text": "which character is ral based off from delarune lol? I kinda forgot deltarune lol",
+    "sprite": "happy_questioning_mocking",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "... are you asking about Undertale??????",
+    "sprite": "happy_shocked",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "aren't the charters from deltarune the same as Undertale but in the future?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "not really it's like an alternative reality thing",
+    "sprite": "happy",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "booo grandparents are here. have fun I got go soon",
+    "sprite": "happy_distressed",
+    "voice": "goodbye"
+  },
+  {
+    "text": "\"hey third wheel, make sure our date goes well\"",
+    "sprite": "cheeky",
+    "voice": "hey_boys"
+  },
+  {
+    "text": "don't do anything too cool without me :)",
+    "sprite": "happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "don't worry there will be the best boss fight as soon as you leave",
+    "sprite": "evil_laugh",
+    "voice": "youre_a_hero"
+  },
+  {
+    "text": "honestly, I think a deltarune remaster would be dope",
+    "sprite": "happy",
+    "voice": "great_style"
+  },
+  {
+    "text": "B A L L",
+    "sprite": "happy_shocked",
+    "voice": "jarona1"
+  },
+  {
+    "text": "sorry I meant to say Undertale",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "an Undertale remaster would be dope",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "simple, better graphics and updated code",
+    "sprite": "happy_proud",
+    "voice": "all_according_to_all_according_to_plant"
+  },
+  {
+    "text": "too much spaghetti from what I understand",
+    "sprite": "cheeky",
+    "voice": "glue"
+  },
+  {
+    "text": "better graphics would be the main thing",
+    "sprite": "happy",
+    "voice": "great_style"
+  },
+  {
+    "text": "is that sans deltatale",
+    "sprite": "happy_questioning_mocking",
+    "voice": "my_king"
+  },
+  {
+    "text": "you think it's perfect until you see better",
+    "sprite": "happy_proud",
+    "voice": "stingus"
+  },
+  {
+    "text": "teleporting sans",
+    "sprite": "happy_shocked",
+    "voice": "jarona2"
+  },
+  {
+    "text": "another example is sodium vs optifine from Minecraft",
+    "sprite": "happy_questioning_mocking",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "lol",
+    "sprite": "happy",
+    "voice": "flowery"
+  },
+  {
+    "text": "I love sans",
+    "sprite": "kawaii",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "I got ice cream today for staying on deck an extra 5-10 minutes",
+    "sprite": "happy",
+    "voice": "try_my_flavor"
+  },
+  {
+    "text": "I won't be able to watch stream because of reasons. let me know what cool stuff happens.",
+    "sprite": "happy_distressed",
+    "voice": "goodbye"
+  },
+  {
+    "text": "now that's a :D face",
+    "sprite": "happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "hello :)",
+    "sprite": "happy",
+    "voice": "heyguys"
+  },
+  {
+    "text": "bro ur gotta continue it gets peak",
+    "sprite": "happy_proud",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "neat",
+    "sprite": "happy",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "YO THEY DID",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "t tuberculosis fox",
+    "sprite": "cheeky",
+    "voice": "glue"
+  },
+  {
+    "text": "11/10 play Kris",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "the lighting in this scene is SO well done",
+    "sprite": "happy_proud",
+    "voice": "great_style"
+  },
+  {
+    "text": "i love susie and noelle they're my favorite",
+    "sprite": "kawaii",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "mmm venison",
+    "sprite": "happy_questioning_mocking",
+    "voice": "theyre_eating_my_flesh"
+  },
+  {
+    "text": "I hope they drown",
+    "sprite": "evil_laugh",
+    "voice": "go_home"
+  },
+  {
+    "text": "the only valid date is between Undyne and Alphys",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "nooo Susie DON'T PUT HER DOWN NOOO",
+    "sprite": "happy_shocked",
+    "voice": "nonono"
+  },
+  {
+    "text": "it was beautiful",
+    "sprite": "kawaii",
+    "voice": "smile_again"
+  },
+  {
+    "text": "PIKUNIKU 2 AND TOUHOU LUNA NIGHTS 2 CONFIRMED LET'S GOOOO",
+    "sprite": "happy_shocked",
+    "voice": "hereicomesanfrandisco_strong"
+  },
+  {
+    "text": "dude skip this scene it reminds of Nolan and it makes me sad",
+    "sprite": "happy_distressed",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "dont skip a thing this chapter is beautiful",
+    "sprite": "happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "you know what skip everything to annoy coolguy37-37",
+    "sprite": "evil_laugh",
+    "voice": "jarona3"
+  },
+  {
+    "text": "100% her mom's gonna use this as ammunition",
+    "sprite": "happy_questioning_mocking",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "I thought the EXACT SAME thing",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "L gf honestly",
+    "sprite": "cheeky",
+    "voice": "stingus"
+  },
+  {
+    "text": "conveniently noelle shaped icecream blocked her from view",
+    "sprite": "cheeky",
+    "voice": "glue"
+  },
+  {
+    "text": "it's like some kind of.... snowgrave",
+    "sprite": "happy_shocked",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "its so pinkl",
+    "sprite": "happy_shocked",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "idk",
+    "sprite": "happy_questioning_mocking",
+    "voice": "mostlys"
+  },
+  {
+    "text": "pink^3",
+    "sprite": "cheeky",
+    "voice": "glue"
+  },
+  {
+    "text": "spamton?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "this whole game is making everyone trans",
+    "sprite": "evil_laugh",
+    "voice": "dont_you_like_serving_humans"
+  },
+  {
+    "text": "there's trans in the deltarune supply",
+    "sprite": "cheeky",
+    "voice": "glue"
+  },
+  {
+    "text": "knockoff rudinn??",
+    "sprite": "happy_questioning_mocking",
+    "voice": "wow"
+  },
+  {
+    "text": "isn't Kris enby",
+    "sprite": "happy_questioning_mocking",
+    "voice": "kris"
+  },
+  {
+    "text": "I hope it turns out the Rune Delta was a dream",
+    "sprite": "evil_laugh",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "woah i'm green now",
+    "sprite": "happy_shocked",
+    "voice": "flowery"
+  },
+  {
+    "text": "gaster confirmed???",
+    "sprite": "evil_laugh",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "greem",
+    "sprite": "happy_questioning_mocking",
+    "voice": "glue"
+  },
+  {
+    "text": "Frisk doesn't have a cannon gender",
+    "sprite": "happy_questioning_mocking",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "cannon gender is pirate actually",
+    "sprite": "cheeky",
+    "voice": "jarona1"
+  },
+  {
+    "text": "cannon lol",
+    "sprite": "happy",
+    "voice": "glue"
+  },
+  {
+    "text": "cause Toby confirmed it indirectly",
+    "sprite": "happy_proud",
+    "voice": "all_according_to_all_according_to_plant"
+  },
+  {
+    "text": "*by",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "glue",
+    "sprite": "happy_shocked",
+    "voice": "glue"
+  },
+  {
+    "text": "cause glue is fun to sniff and eat",
+    "sprite": "happy_distressed",
+    "voice": "try_my_flavor"
+  },
+  {
+    "text": "I'm back and I'm so fucking tired",
+    "sprite": "happy_distressed",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "JARONA!",
+    "sprite": "happy_shocked",
+    "voice": "jarona4"
+  },
+  {
+    "text": "FRIEND INSIDE ME????????",
+    "sprite": "happy_shocked",
+    "voice": "jarona3"
+  },
+  {
+    "text": "I'm gonna fucking die",
+    "sprite": "look_distressed",
+    "voice": "im_falling"
+  },
+  {
+    "text": "the cowboy",
+    "sprite": "happy_questioning_mocking",
+    "voice": "hereicome"
+  },
+  {
+    "text": "death cannot come soon enough",
+    "sprite": "look_distressed",
+    "voice": "go_home"
+  },
+  {
+    "text": "never mind",
+    "sprite": "sheepish",
+    "voice": "forget_it"
+  },
+  {
+    "text": "that was kind of obvious tho",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "they decided to stay for cake",
+    "sprite": "happy_distressed",
+    "voice": "theyre_eating_my_flesh"
+  },
+  {
+    "text": "drop a fox on the switch",
+    "sprite": "happy_shocked",
+    "voice": "jarona2"
+  },
+  {
+    "text": "specifically boxfox",
+    "sprite": "cheeky",
+    "voice": "glue"
+  },
+  {
+    "text": "I prefer soda cold",
+    "sprite": "happy_questioning_mocking",
+    "voice": "try_my_flavor"
+  },
+  {
+    "text": "I prefer soda warm",
+    "sprite": "happy_distressed",
+    "voice": "theyre_eating_my_flesh"
+  },
+  {
+    "text": "hot take i hate all soda",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "all soda hates you",
+    "sprite": "evil_laugh",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "counterpoint: hydrate",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "mod you should make the drink water thing free",
+    "sprite": "happy_proud",
+    "voice": "give_to_you"
+  },
+  {
+    "text": "floradinn is ME FR",
+    "sprite": "happy_shocked",
+    "voice": "flowery"
+  },
+  {
+    "text": "why am i in the game?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "itsme"
+  },
+  {
+    "text": "SORRY TO KEEP YOU WAITING",
+    "sprite": "happy_shocked",
+    "voice": "sorrytokeepyouwaiting1"
+  },
+  {
+    "text": "i would stay but i am playing my new steam games",
+    "sprite": "happy",
+    "voice": "goodbye"
+  },
+  {
+    "text": "funi racoon game seems fascinating",
+    "sprite": "kawaii",
+    "voice": "great_style"
+  },
+  {
+    "text": "goodbye🫡",
+    "sprite": "happy",
+    "voice": "goodbye"
+  },
+  {
+    "text": "amazing stream",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "my balogna > my jarona",
+    "sprite": "cheeky",
+    "voice": "jarona1"
+  },
+  {
+    "text": "I can now hear my gameplay in peace",
+    "sprite": "happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "literally just infinite money",
+    "sprite": "happy_proud",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "this is an idle game",
+    "sprite": "happy_questioning_mocking",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "great background music for reading",
+    "sprite": "happy",
+    "voice": "great_style"
+  },
+  {
+    "text": "I have so many pints of blood to use up, yk?",
+    "sprite": "happy_proud",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "bro point moggs me",
+    "sprite": "offended",
+    "voice": "stingus"
+  },
+  {
+    "text": "this chapter is filled with closets and scissors",
+    "sprite": "evil_laugh",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "hehehe",
+    "sprite": "evil_laugh",
+    "voice": "jarona1"
+  },
+  {
+    "text": "I have more than quadruple the points",
+    "sprite": "happy_proud",
+    "voice": "stingus"
+  },
+  {
+    "text": "bro could just ruin stream with all those points",
+    "sprite": "worried",
+    "voice": "nonono"
+  },
+  {
+    "text": "I could...",
+    "sprite": "evil_laugh",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "you have more shears",
+    "sprite": "happy_questioning_mocking",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "flowery dollars ahh",
+    "sprite": "happy_proud",
+    "voice": "flowery"
+  },
+  {
+    "text": ";-;",
+    "sprite": "happy_distressed",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "can you get 50 flowery dollars again?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "flowery"
+  },
+  {
+    "text": "like from the same thing?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "wow"
+  },
+  {
+    "text": "walk on the water without the gate",
+    "sprite": "happy_proud",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "Yellow!!!!",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "WOODIE",
+    "sprite": "happy_shocked",
+    "voice": "jarona2"
+  },
+  {
+    "text": "Friend inside me is real",
+    "sprite": "evil_laugh",
+    "voice": "thisguysyourbestfriend"
+  },
+  {
+    "text": "no you didnt save",
+    "sprite": "happy_distressed",
+    "voice": "nonono"
+  },
+  {
+    "text": "btw how long is stream planned to go?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "kris"
+  },
+  {
+    "text": "you should go at least an hour more",
+    "sprite": "cheeky",
+    "voice": "get_a_chance_1"
+  },
+  {
+    "text": "secret boss?",
+    "sprite": "happy_shocked",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "valid",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "end stream - totally not Jonerite",
+    "sprite": "evil_laugh",
+    "voice": "go_home"
+  },
+  {
+    "text": "reset",
+    "sprite": "worried",
+    "voice": "nonono"
+  },
+  {
+    "text": "top down",
+    "sprite": "happy_questioning_mocking",
+    "voice": "yes"
+  },
+  {
+    "text": "poor ralsei",
+    "sprite": "happy_distressed",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "that just makes me think like a little kid trying to show off",
+    "sprite": "cheeky",
+    "voice": "stingus"
+  },
+  {
+    "text": "hey guys I'm back",
+    "sprite": "happy",
+    "voice": "heyguys"
+  },
+  {
+    "text": "so what happened while I was away give me a summary",
+    "sprite": "happy_questioning_mocking",
+    "voice": "heyguys"
+  },
+  {
+    "text": "uhhh",
+    "sprite": "happy_questioning_mocking",
+    "voice": "theyre_eating_my_flesh"
+  },
+  {
+    "text": "wait when was catgirl juice",
+    "sprite": "happy_shocked",
+    "voice": "theyre_eating_my_flesh"
+  },
+  {
+    "text": "why it today's mod stream so long?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "why not?",
+    "sprite": "cheeky",
+    "voice": "stingus"
+  },
+  {
+    "text": "yeah you should stand up",
+    "sprite": "happy_proud",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "haha yeah cat gjrl",
+    "sprite": "cheeky",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "can next stream be just as long?",
+    "sprite": "happy",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "mod do you accept game suggestions?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "kris"
+  },
+  {
+    "text": "oof",
+    "sprite": "hurt",
+    "voice": "im_falling"
+  },
+  {
+    "text": "work sucks",
+    "sprite": "happy_distressed",
+    "voice": "go_home"
+  },
+  {
+    "text": "stupid question, who's paying rent?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "my_king"
+  },
+  {
+    "text": "long headphones",
+    "sprite": "happy_questioning_mocking",
+    "voice": "glue"
+  },
+  {
+    "text": "why stand when you can sit?",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "why do you have... fun... bags?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "heyguysithinkifoundaglue"
+  },
+  {
+    "text": "next stream do mod ASMR",
+    "sprite": "evil_laugh",
+    "voice": "try_my_flavor"
+  },
+  {
+    "text": "we can see the shadow",
+    "sprite": "worried",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "like of the headphones",
+    "sprite": "happy_questioning_mocking",
+    "voice": "no_way_its_your_children"
+  },
+  {
+    "text": "what job does mod do?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "my_human"
+  },
+  {
+    "text": "NOLAN",
+    "sprite": "happy_shocked",
+    "voice": "hey_boys"
+  },
+  {
+    "text": "understandable",
+    "sprite": "happy",
+    "voice": "yes"
+  },
+  {
+    "text": "humans were not designed to have perfect posture",
+    "sprite": "happy_proud",
+    "voice": "great_style"
+  },
+  {
+    "text": "wait your plushie gay?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "its_all_in_a_name"
+  },
+  {
+    "text": "you should see a massage therapist / chiropracter",
+    "sprite": "worried",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "blahaj!",
+    "sprite": "kawaii",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "I didn't know mod was an intern at a software company",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "wait I thought mod was unemployed until now LMAO",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "some companies do pay interns",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "most interns are unpaid",
+    "sprite": "happy_questioning_mocking",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "I can't believe mod actually has a job",
+    "sprite": "happy_shocked",
+    "voice": "your_dad"
+  },
+  {
+    "text": "that sucks",
+    "sprite": "happy_distressed",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "I don't think I can support mod knowing the fact he has a job",
+    "sprite": "evil_laugh",
+    "voice": "yourdadsmybestfriend"
+  },
+  {
+    "text": "bad jerios",
+    "sprite": "cheeky",
+    "voice": "your_dad"
+  },
+  {
+    "text": "go sit in the corner behind the map",
+    "sprite": "cheeky",
+    "voice": "go_home"
+  },
+  {
+    "text": "FUNGUS!",
+    "sprite": "happy_shocked",
+    "voice": "hey_boys"
+  },
+  {
+    "text": "you should be unemployed because then we could have working clip command",
+    "sprite": "evil_laugh",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "employment = money = no risk of losing place to live",
+    "sprite": "happy_proud",
+    "voice": "all_according_to_all_according_to_plant"
+  },
+  {
+    "text": "mod should live and become one in his server",
+    "sprite": "evil_laugh",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "he will steal fungus's electricity",
+    "sprite": "evil_laugh",
+    "voice": "jarona1"
+  },
+  {
+    "text": "you should have only been drinking water. soda sucks",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "*pours water out of bottle into bottle*",
+    "sprite": "happy_questioning_mocking",
+    "voice": "glue"
+  },
+  {
+    "text": "LMAO",
+    "sprite": "happy",
+    "voice": "flowery"
+  },
+  {
+    "text": "I'm behind a bit methinks",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "@Jerios, you currently have 876 pints of burnt engine oil",
+    "sprite": "happy_proud",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "check the top",
+    "sprite": "happy_questioning_mocking",
+    "voice": "kris"
+  },
+  {
+    "text": "oh nvm",
+    "sprite": "sheepish",
+    "voice": "forget_it"
+  },
+  {
+    "text": "water random tiles!",
+    "sprite": "happy_proud",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "you missed a lot of stuff though",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "all the verticals",
+    "sprite": "happy_questioning_mocking",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "GO UP",
+    "sprite": "happy_shocked",
+    "voice": "jarona3"
+  },
+  {
+    "text": "wrong up",
+    "sprite": "cheeky",
+    "voice": "its_so_human"
+  },
+  {
+    "text": "left",
+    "sprite": "happy_questioning_mocking",
+    "voice": "kris"
+  },
+  {
+    "text": "is it possible to make a mod for deltarune?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "if so, when it had finished that would be a good idea for a stream",
+    "sprite": "happy_proud",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "wait is Rai here?",
+    "sprite": "happy_shocked",
+    "voice": "heyguys"
+  },
+  {
+    "text": "Rafael",
+    "sprite": "happy",
+    "voice": "hey_boys"
+  },
+  {
+    "text": "tortle",
+    "sprite": "cheeky",
+    "voice": "glue"
+  },
+  {
+    "text": "what's the femboy's name again",
+    "sprite": "cheeky",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "is he here",
+    "sprite": "happy_questioning_mocking",
+    "voice": "minipeppers"
+  },
+  {
+    "text": "I'm never not delirious",
+    "sprite": "look_distressed",
+    "voice": "im_falling"
+  },
+  {
+    "text": "yes ral",
+    "sprite": "happy",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "also I've been up like 16 hours",
+    "sprite": "happy_distressed",
+    "voice": "im_falling"
+  },
+  {
+    "text": "oops I press the letter i instead of the l",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "they got locked with the other flower things",
+    "sprite": "happy_questioning_mocking",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "you got hit pretty bad",
+    "sprite": "worried",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "here comes the deaths!",
+    "sprite": "evil_laugh",
+    "voice": "jarona2"
+  },
+  {
+    "text": "this looks so complicated",
+    "sprite": "worried",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "go to the vines?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "kris"
+  },
+  {
+    "text": "yay",
+    "sprite": "happy",
+    "voice": "yes"
+  },
+  {
+    "text": "is ralsei just teleporting?",
+    "sprite": "happy_shocked",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "wait mod is not sucking at this 2d platformer",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "well too bad, we like you better",
+    "sprite": "happy",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "I like this mod evil twin better",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "this nice one sucks",
+    "sprite": "evil_laugh",
+    "voice": "go_home"
+  },
+  {
+    "text": "is flowery the knight?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "why is flowey a man?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "itsmeflowery"
+  },
+  {
+    "text": "Yo its me tenna",
+    "sprite": "happy_shocked",
+    "voice": "itsme"
+  },
+  {
+    "text": "want an ikea?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "the_diner"
+  },
+  {
+    "text": "mod is slowly becoming matt patt",
+    "sprite": "evil_laugh",
+    "voice": "stingus"
+  },
+  {
+    "text": "29.5662 N -98.3496 E",
+    "sprite": "happy_questioning_mocking",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "ikea probably",
+    "sprite": "happy",
+    "voice": "great_style"
+  },
+  {
+    "text": "make this your wallpaper",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "make this screenshot your wallpaper",
+    "sprite": "happy_proud",
+    "voice": "great_style"
+  },
+  {
+    "text": "No you're not, stop lying to your fans",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "a nolan?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "my_king"
+  },
+  {
+    "text": "WOW YOU THINK SO LOW OF ME!",
+    "sprite": "offended",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "aqua",
+    "sprite": "happy_questioning_mocking",
+    "voice": "stingus"
+  },
+  {
+    "text": "i'm old",
+    "sprite": "happy_distressed",
+    "voice": "im_falling"
+  },
+  {
+    "text": "something is planned",
+    "sprite": "evil_laugh",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "join vc on stream",
+    "sprite": "happy",
+    "voice": "heyguys"
+  },
+  {
+    "text": "@Jerios, you currently have 606 pints of burnt engine oil",
+    "sprite": "happy_proud",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "this mod stream has been so long LMAO",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "Nolan room reveal is insane",
+    "sprite": "happy_shocked",
+    "voice": "hey_boys"
+  },
+  {
+    "text": "has there ever been a mod stream as long as this??",
+    "sprite": "happy_questioning_mocking",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "WTF mod",
+    "sprite": "happy_shocked",
+    "voice": "take_that"
+  },
+  {
+    "text": "how does Nolan do the voice?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "honestly, Nolan sound like he could be an agent for a movie",
+    "sprite": "happy_proud",
+    "voice": "great_style"
+  },
+  {
+    "text": "Nolan could be a voice actor lol",
+    "sprite": "happy_proud",
+    "voice": "thisguysyourbestfriend"
+  },
+  {
+    "text": "I want a picture of Nolan's mom",
+    "sprite": "cheeky",
+    "voice": "your_dad"
+  },
+  {
+    "text": "so uh what happened",
+    "sprite": "happy_questioning_mocking",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "mod don't forget the presentation",
+    "sprite": "happy_questioning_mocking",
+    "voice": "kris"
+  },
+  {
+    "text": "show us your presentation",
+    "sprite": "happy_proud",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "NGL I thought you were transitioning because of your alt name LMAO",
+    "sprite": "evil_laugh",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "ooh presentation",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "guys I'm gonna do a 5000 word essay on why mod is trans",
+    "sprite": "evil_laugh",
+    "voice": "dont_you_like_serving_humans"
+  },
+  {
+    "text": "egg",
+    "sprite": "happy_questioning_mocking",
+    "voice": "glue"
+  },
+  {
+    "text": "you only need one word though... yes",
+    "sprite": "cheeky",
+    "voice": "yes"
+  },
+  {
+    "text": "I haven't enough pints",
+    "sprite": "hurt",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "can I have some?",
+    "sprite": "happy",
+    "voice": "give_to_you"
+  },
+  {
+    "text": "this presentation isn't a meme but it's actually high quality",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "interesting set of ribbons",
+    "sprite": "happy_questioning_mocking",
+    "voice": "great_style"
+  },
+  {
+    "text": "bob",
+    "sprite": "happy_questioning_mocking",
+    "voice": "glue"
+  },
+  {
+    "text": "bobitha",
+    "sprite": "cheeky",
+    "voice": "glue"
+  },
+  {
+    "text": "bobithana ??? the 3rd",
+    "sprite": "happy_shocked",
+    "voice": "jarona1"
+  },
+  {
+    "text": "the way the character is sad feels like an innocent child wanting the best for the world",
+    "sprite": "kawaii",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "ral is written depressing but in a good way",
+    "sprite": "happy_distressed",
+    "voice": "smile_again"
+  },
+  {
+    "text": "beautiful presentation",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "thank you",
+    "sprite": "happy",
+    "voice": "its_all_yours"
+  },
+  {
+    "text": "that was a long stream",
+    "sprite": "happy_distressed",
+    "voice": "im_falling"
+  },
+  {
+    "text": "sorry I missed the beginning of stream, but was fun to be here for the end!",
+    "sprite": "happy",
+    "voice": "sorrytokeepyouwaiting1"
+  },
+  {
+    "text": "mod is gonna have a nice sleep",
+    "sprite": "happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "What a great stream idea.",
+    "voice": "flowers_blooms_in_your_heart",
+    "sprite": "happy"
+  },
+  {
+    "text": "Okay :(",
+    "voice": "sorryaboutthatguys",
+    "sprite": "worried"
+  },
+  {
+    "text": "This title is strange",
+    "voice": "huh",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "Yeah to you",
+    "voice": "heh_it_s_my_jarona",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "Hi hi Nolan!! :D",
+    "voice": "heyguys",
+    "sprite": "happy"
+  },
+  {
+    "text": "How ya doing?",
+    "voice": "heytherelittleguy",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "Been better",
+    "voice": "im_only_trying_to_help_you",
+    "sprite": "worried"
+  },
+  {
+    "text": "Hi Mod!!",
+    "voice": "heyguysithinkifoundaglue",
+    "sprite": "happy"
+  },
+  {
+    "text": "free tts",
+    "voice": "jarona1",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "sorry im a bit late",
+    "voice": "sorryaboutthatlittleguy",
+    "sprite": "sheepish"
+  },
+  {
+    "text": "this is going to be incredibly interesting",
+    "voice": "wow",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "i was watching a really sad episode of survivor",
+    "voice": "im_falling",
+    "sprite": "hurt"
+  },
+  {
+    "text": "I'm reading books and writing down words idk lols",
+    "voice": "mostlys",
+    "sprite": "happy"
+  },
+  {
+    "text": "HOLA",
+    "voice": "jarona2",
+    "sprite": "happy"
+  },
+  {
+    "text": "a guy on the show was bitten by a highly venomous snake",
+    "voice": "mysterious_wind",
+    "sprite": "worried"
+  },
+  {
+    "text": "he needed immediate medical attention",
+    "voice": "sorryabouttheguy",
+    "sprite": "worried"
+  },
+  {
+    "text": "EMERGENCY PAGING DR BEAT",
+    "voice": "jarona3",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "dry bite?",
+    "voice": "huh",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "I'm sick",
+    "voice": "forget_it",
+    "sprite": "hurt"
+  },
+  {
+    "text": "feeling horrible 👍",
+    "voice": "sorryaboutthatguys",
+    "sprite": "hurt"
+  },
+  {
+    "text": "hello",
+    "voice": "hey_boys",
+    "sprite": "happy"
+  },
+  {
+    "text": "oh dear",
+    "voice": "sorrytokeepyouwaiting1",
+    "sprite": "worried"
+  },
+  {
+    "text": "yeah feel better reggie",
+    "voice": "smile_again",
+    "sprite": "happy"
+  },
+  {
+    "text": "JAY MINECRAFT!!!",
+    "voice": "and_one_more_for_the_fans",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "hi jonrtie",
+    "voice": "hey_raly",
+    "sprite": "happy"
+  },
+  {
+    "text": "Thanks all",
+    "voice": "goodbye",
+    "sprite": "bow"
+  },
+  {
+    "text": "(thats a threat reggie, feel better or else)",
+    "voice": "give_to_you",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "ur dead af",
+    "voice": "take_that",
+    "sprite": "evil_laugh"
+  },
+  {
+    "text": "oop",
+    "voice": "huh",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "well",
+    "voice": "flowery",
+    "sprite": "happy_less"
+  },
+  {
+    "text": "youre dying",
+    "voice": "theyre_eating_my_flesh",
+    "sprite": "worried"
+  },
+  {
+    "text": "I've been threat",
+    "voice": "say_that_again",
+    "sprite": "offended"
+  },
+  {
+    "text": "youre taking all the damage",
+    "voice": "im_falling",
+    "sprite": "worried"
+  },
+  {
+    "text": "and imma afk",
+    "voice": "forget_it",
+    "sprite": "sheepish"
+  },
+  {
+    "text": "youre swarmed by zombies",
+    "voice": "mysterious_wind",
+    "sprite": "worried"
+  },
+  {
+    "text": "what the simga",
+    "voice": "what_a_predictable_creature",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "67 points",
+    "voice": "wow",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "oh god",
+    "voice": "nonono",
+    "sprite": "worried"
+  },
+  {
+    "text": "KNEW IT.",
+    "voice": "all_according_to_all_according_to_plant",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "annnnnnnnd afk",
+    "voice": "jarona4",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "stop spamming 6 7",
+    "voice": "say_that_again",
+    "sprite": "offended"
+  },
+  {
+    "text": "You're in a tree",
+    "voice": "my_human",
+    "sprite": "worried"
+  },
+  {
+    "text": "don't walk forwards",
+    "voice": "dont_you_like_serving_humans",
+    "sprite": "worried"
+  },
+  {
+    "text": "YOU ARE ON TREE, IF YOU WALK FORWARDS YOU WILL DIE",
+    "voice": "hereicome",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "there's lava below u",
+    "voice": "theyre_eating_my_flesh",
+    "sprite": "worried"
+  },
+  {
+    "text": "there's wood below u",
+    "voice": "leaf_it_to_me",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "you are on wood now",
+    "voice": "glue",
+    "sprite": "happy"
+  },
+  {
+    "text": "the delay is sabotaging you",
+    "voice": "forget_it",
+    "sprite": "offended"
+  },
+  {
+    "text": "this is like a very silly game",
+    "voice": "minipeppers",
+    "sprite": "happy"
+  },
+  {
+    "text": "left a teensy bit",
+    "voice": "get_a_chance_1",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "cya nerd",
+    "voice": "ja_kidding",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "are you guys dyslexic",
+    "voice": "what_a_predictable_creature",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "you got planks",
+    "voice": "thatsgreat",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "open your eyes",
+    "voice": "say_that_again",
+    "sprite": "offended"
+  },
+  {
+    "text": "hey... it's me vortex.... remember me? haven't been on a stream in months....",
+    "voice": "my_favorite_two",
+    "sprite": "happy"
+  },
+  {
+    "text": "mmmmmmmm",
+    "voice": "suckle_it_up",
+    "sprite": "kawaii"
+  },
+  {
+    "text": "this is.... curious",
+    "voice": "mysterious_wind",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "Welcome Vortex!",
+    "voice": "flowery",
+    "sprite": "happy"
+  },
+  {
+    "text": "unsubscribe to mod monster",
+    "voice": "forget_it",
+    "sprite": "evil_laugh"
+  },
+  {
+    "text": "cut it out.",
+    "voice": "take_that",
+    "sprite": "offended"
+  },
+  {
+    "text": "this is gonna be fun",
+    "voice": "thats_my_dreams",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "go down",
+    "voice": "get_a_chance_2",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "∴ᒷꖎꖎ, ᒲ╎リᒷᓵ∷ᔑ⎓ℸ ̣ ╎ᓭ ʖᒷ╎リ⊣ ᓵ⚍∷╎𝙹ᓭꖎ|| ↸╎⎓⎓╎ᓵ⚍ꖎℸ ̣.",
+    "voice": "minipeppers",
+    "sprite": "kawaii"
+  },
+  {
+    "text": "you died",
+    "voice": "sorryaboutthatlittleguy",
+    "sprite": "hurt"
+  },
+  {
+    "text": "dig down",
+    "voice": "glue",
+    "sprite": "worried"
+  },
+  {
+    "text": "forest",
+    "voice": "flowers_blooms_in_your_heart",
+    "sprite": "happy"
+  },
+  {
+    "text": "too high camera",
+    "voice": "huh",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "we mighta nearly killed you",
+    "voice": "sorryaboutthatguys",
+    "sprite": "sheepish"
+  },
+  {
+    "text": "yep told you so",
+    "voice": "heh_it_s_my_jarona",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "CHAT IS DELAYED",
+    "voice": "nonono",
+    "sprite": "offended"
+  },
+  {
+    "text": "mod is moving too much",
+    "voice": "jarona4",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "there's a tree on the other side",
+    "voice": "leaf_it_to_me",
+    "sprite": "happy"
+  },
+  {
+    "text": "forwards",
+    "voice": "hereicome",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "I see a tree",
+    "voice": "get_a_chance_1",
+    "sprite": "happy"
+  },
+  {
+    "text": "already reached land",
+    "voice": "thatsgreat",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "go forwards",
+    "voice": "hereicomesanfrandisco_weak",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "stop",
+    "voice": "nonono",
+    "sprite": "offended"
+  },
+  {
+    "text": "also im back",
+    "voice": "heyguys",
+    "sprite": "happy"
+  },
+  {
+    "text": "go back",
+    "voice": "go_home",
+    "sprite": "worried"
+  },
+  {
+    "text": "diamonds",
+    "voice": "blingo_blizzard",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "no forward more",
+    "voice": "hereicomesanfrandisc",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "you on land tho",
+    "voice": "flowery",
+    "sprite": "happy"
+  },
+  {
+    "text": "go left",
+    "voice": "get_a_chance_2",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "2 blocks left",
+    "voice": "my_favorite_two",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "forwards about 5 seconds",
+    "voice": "with_your_powers_combined",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "forward for tree",
+    "voice": "hereicome",
+    "sprite": "happy"
+  },
+  {
+    "text": "jump",
+    "voice": "hoo",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "a tree",
+    "voice": "flowers_blooms_in_your_heart",
+    "sprite": "happy"
+  },
+  {
+    "text": "anyou need to jump forward and turn slightly left",
+    "voice": "leaf_it_to_me",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "YAYYYY!!",
+    "voice": "wow",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "that was delayed",
+    "voice": "mostlys",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "walk slightly forawrd",
+    "voice": "get_a_chance_1",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "big tree",
+    "voice": "hereicomesanfrandisco_strong",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "slight right",
+    "voice": "sanfran",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "toleft slightly",
+    "voice": "get_a_chance_2",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "half block",
+    "voice": "minipeppers",
+    "sprite": "kawaii"
+  },
+  {
+    "text": "tap the d 0.5 seconds",
+    "voice": "its_all_in_a_name",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "nah jk - Jonerite",
+    "voice": "ja_kidding",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "go slightly forwards and look up a bit more - reggie",
+    "voice": "with_your_powers_combined",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "you are like half a block from under the main trunk - alix",
+    "voice": "my_king",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "diamonds - reggie",
+    "voice": "blingo_blizzard",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "directly under no - alix",
+    "voice": "huh",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "you're right under the tree now -reggie",
+    "voice": "leaf_it_to_me",
+    "sprite": "happy"
+  },
+  {
+    "text": "THAT WASN'T ME>",
+    "voice": "say_that_again",
+    "sprite": "offended"
+  },
+  {
+    "text": "you need to use audio cues more",
+    "voice": "im_only_trying_to_help_you",
+    "sprite": "worried"
+  },
+  {
+    "text": "fungus is pretending to be other people - alix",
+    "voice": "what_a_predictable_creature",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "lapis - alix",
+    "voice": "blingo_blizzard",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "wait.... WHAT IF YOU USE THE NARRATOR voice?",
+    "voice": "mysterious_wind",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "wood is in off hand right now",
+    "voice": "leaf_it_to_me",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "mod on your left there's a village - reggie",
+    "voice": "hereicomesanfrandisco_strong",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "dont trust anyone",
+    "voice": "mysterious_wind",
+    "sprite": "worried"
+  },
+  {
+    "text": "u have wood-vtex",
+    "voice": "my_human",
+    "sprite": "happy"
+  },
+  {
+    "text": "identity theft is no joke, millions of family suffer from it every year - Dwight",
+    "voice": "your_dad",
+    "sprite": "offended"
+  },
+  {
+    "text": "wood is in first slot 36 pieces - alix",
+    "voice": "all_according_to_all_according_to_plant",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "village is on left, fungus is pretending to be me and saying there isn't one - alix",
+    "voice": "its_all_yours",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "⍑ᒷꖎꖎ𝙹",
+    "voice": "hoo",
+    "sprite": "kawaii"
+  },
+  {
+    "text": "you have 36 wood for your info - vortex",
+    "voice": "jarona1",
+    "sprite": "happy"
+  },
+  {
+    "text": "fungus shut tf up",
+    "voice": "take_that",
+    "sprite": "offended"
+  },
+  {
+    "text": "fungus is lying!! there is no village -reggie",
+    "voice": "nonono",
+    "sprite": "worried"
+  },
+  {
+    "text": "you are on the crafting slot - vortex",
+    "voice": "itsme",
+    "sprite": "happy"
+  },
+  {
+    "text": "your cursor is on the top left of the 4 by 4 crafting grid",
+    "voice": "get_a_chance_1",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "vortex did not see any village",
+    "voice": "forget_it",
+    "sprite": "sheepish"
+  },
+  {
+    "text": "I saw a village - alix 651",
+    "voice": "great_style",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "I never said anythinggggg!!!!",
+    "voice": "ja_kidding",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "no crafting table",
+    "voice": "no_way_its_your_children",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "you is misisng one wood",
+    "voice": "sorryaboutthatguys",
+    "sprite": "sheepish"
+  },
+  {
+    "text": "what are you trying to make?",
+    "voice": "huh",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "bottom right slot is missing wood, -reggie",
+    "voice": "leaf_it_to_me",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "a bit up",
+    "voice": "get_a_chance_1",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "bottom right is empty move up and left slightly - alix",
+    "voice": "with_your_powers_combined",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "left and up",
+    "voice": "get_a_chance_2",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "cursor over it now",
+    "voice": "itsmeflowery",
+    "sprite": "happy"
+  },
+  {
+    "text": "there we go, you got it - big daddy",
+    "voice": "my_king",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "now you have a crafting table",
+    "voice": "great_style",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "GOOD JOB!!!",
+    "voice": "youre_a_hero",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "go down",
+    "voice": "take_that",
+    "sprite": "happy"
+  },
+  {
+    "text": "i gtg for one sec",
+    "voice": "goodbye",
+    "sprite": "sheepish"
+  },
+  {
+    "text": "i gotta move something or something",
+    "voice": "sorryaboutthatguys",
+    "sprite": "sheepish"
+  },
+  {
+    "text": "ill be back",
+    "voice": "get_a_chance_1",
+    "sprite": "happy"
+  },
+  {
+    "text": "remember me mod?",
+    "voice": "itsme",
+    "sprite": "happy_questioning_mocking"
+  },
+  {
+    "text": "∴ᒷꖎꖎ, ᒲ╎リᒷᓵ∷ᔑ⎓ℸ̣ ╎ᓭ ʖᒷ╎リ⊣ ᓵ⚍∷╎𝙹⚍ᓭꖎ|| ↸╎⎓⎓╎ᓵ⚍ꖎℸ̣.",
+    "voice": "mysterious_wind",
+    "sprite": "evil_laugh"
+  },
+  {
+    "text": "You",
+    "voice": "heyguys",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "you died",
+    "voice": "wow",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "you are in a plains biome",
+    "voice": "yes",
+    "sprite": "happy"
+  },
+  {
+    "text": "dig down",
+    "voice": "take_that",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "your next to a ravine",
+    "voice": "im_falling",
+    "sprite": "worried"
+  },
+  {
+    "text": "you're fine if you go forwards",
+    "voice": "get_a_chance_2",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "opposite way",
+    "voice": "nonono",
+    "sprite": "offended"
+  },
+  {
+    "text": "not facing ravine",
+    "voice": "say_that_again",
+    "sprite": "worried"
+  },
+  {
+    "text": "pess forward",
+    "voice": "take_that",
+    "sprite": "happy"
+  },
+  {
+    "text": "you're facing the sky my friend",
+    "voice": "huh",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "forest",
+    "voice": "hoo",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "too high camera",
+    "voice": "nonono",
+    "sprite": "worried"
+  },
+  {
+    "text": "look a bit down",
+    "voice": "yes",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "forwards is wood",
+    "voice": "great_style",
+    "sprite": "happy"
+  },
+  {
+    "text": "go forward",
+    "voice": "take_that",
+    "sprite": "happy"
+  },
+  {
+    "text": "if you wait till the morning you'll get wood too",
+    "voice": "thatsgreat",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "we mighta nearly killed you",
+    "voice": "sorryaboutthatlittleguy",
+    "sprite": "sheepish"
+  },
+  {
+    "text": "yep",
+    "voice": "yes",
+    "sprite": "happy"
+  },
+  {
+    "text": "told you so",
+    "voice": "all_according_to_all_according_to_plant",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "you are",
+    "voice": "flowery",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "you're stuck",
+    "voice": "nonono",
+    "sprite": "look_distressed"
+  },
+  {
+    "text": "you are up a wall",
+    "voice": "go_home",
+    "sprite": "worried"
+  },
+  {
+    "text": "nuh uh",
+    "voice": "nonono",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "SORRY MOD",
+    "voice": "sorryaboutthatguys",
+    "sprite": "sheepish"
+  },
+  {
+    "text": "we told you",
+    "voice": "all_according_to_all_according_to_plant",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "NOT OUR FAULT",
+    "voice": "forget_it",
+    "sprite": "offended"
+  },
+  {
+    "text": "I didn't see ravine due to the cameras",
+    "voice": "sorryaboutthatguys",
+    "sprite": "sheepish"
+  },
+  {
+    "text": "CHAT IS DELAYED",
+    "voice": "what_a_predictable_creature",
+    "sprite": "happy_distressed"
+  },
+  {
+    "text": "just pause for a second after everything!",
+    "voice": "im_only_trying_to_help_you",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "you're beside water",
+    "voice": "yes",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "to your right",
+    "voice": "take_that",
+    "sprite": "happy"
+  },
+  {
+    "text": "mod is moving too much",
+    "voice": "huh",
+    "sprite": "happy_distressed"
+  },
+  {
+    "text": "go right",
+    "voice": "take_that",
+    "sprite": "happy"
+  },
+  {
+    "text": "that's the issue",
+    "voice": "all_according_to_all_according_to_plant",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "mod, there's water to your right,",
+    "voice": "im_only_trying_to_help_you",
+    "sprite": "worried"
+  },
+  {
+    "text": "and stop",
+    "voice": "nonono",
+    "sprite": "worried"
+  },
+  {
+    "text": "right Is a river",
+    "voice": "hereicome",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "swim across",
+    "voice": "take_that",
+    "sprite": "happy"
+  },
+  {
+    "text": "right is tree",
+    "voice": "flowers_blooms_in_your_heart",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "there's a tree on the other side",
+    "voice": "flowers_blooms_in_your_heart",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "forwards",
+    "voice": "take_that",
+    "sprite": "happy"
+  },
+  {
+    "text": "I see a tree",
+    "voice": "wow",
+    "sprite": "happy"
+  },
+  {
+    "text": "already reached land",
+    "voice": "thatsgreat",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "go forwards",
+    "voice": "take_that",
+    "sprite": "happy"
+  },
+  {
+    "text": "stop",
+    "voice": "nonono",
+    "sprite": "worried"
+  },
+  {
+    "text": "also im back",
+    "voice": "itsme",
+    "sprite": "happy"
+  },
+  {
+    "text": "go back",
+    "voice": "take_that",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "diamonds",
+    "voice": "blingo_blizzard",
+    "sprite": "happy_shocked"
+  },
+  {
+    "text": "no forward more",
+    "voice": "nonono",
+    "sprite": "worried"
+  },
+  {
+    "text": "you on land tho",
+    "voice": "thatsgreat",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "go left",
+    "voice": "take_that",
+    "sprite": "happy"
+  },
+  {
+    "text": "2 blocks left",
+    "voice": "take_that",
+    "sprite": "happy"
+  },
+  {
+    "text": "forwards about 5 seconds",
+    "voice": "im_only_trying_to_help_you",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "forward for tree",
+    "voice": "flowers_blooms_in_your_heart",
+    "sprite": "happy"
+  },
+  {
+    "text": "jump",
+    "voice": "take_that",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "a tree",
+    "voice": "hoo",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "anyou need to jump forward and turn slightly left",
+    "voice": "im_only_trying_to_help_you",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "YAYYYY!!",
+    "voice": "wow",
+    "sprite": "happy_proud"
+  },
+  {
+    "text": "that was delayed",
+    "voice": "mostlys",
+    "sprite": "happy_distressed"
+  },
+  {
+    "text": "walk slightly forawrd",
+    "voice": "take_that",
+    "sprite": "happy"
+  },
+  {
+    "text": "big tree",
+    "voice": "flowers_blooms_in_your_heart",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "slight right",
+    "voice": "take_that",
+    "sprite": "happy"
+  },
+  {
+    "text": "toleft slightly",
+    "voice": "take_that",
+    "sprite": "happy"
+  },
+  {
+    "text": "half block",
+    "voice": "yes",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "tap the d 0.5 seconds",
+    "voice": "im_only_trying_to_help_you",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "nah jk - Jonerite",
+    "voice": "ja_kidding",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "go slightly forwards and look up a bit more - reggie",
+    "voice": "im_only_trying_to_help_you",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "you are like half a block from under the main trunk - alix",
+    "voice": "great_style",
+    "sprite": "look_happy"
+  },
+  {
+    "text": "diamonds - reggie",
+    "voice": "blingo_blizzard",
+    "sprite": "cheeky"
+  },
+  {
+    "text": "directly under no - alix",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "you're right under the tree now -reggie",
+    "sprite": "look_happy",
+    "voice": "hereicome"
+  },
+  {
+    "text": "THAT WASN'T ME>",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "you need to use audio cues more",
+    "sprite": "sheepish",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "fungus is pretending to be other people - alix",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "lapis - alix",
+    "sprite": "look_happy",
+    "voice": "wow"
+  },
+  {
+    "text": "wait.... WHAT IF YOU USE THE NARRATOR voice?",
+    "sprite": "happy_shocked",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "jerios said it",
+    "sprite": "happy",
+    "voice": "yes"
+  },
+  {
+    "text": "wood is in off hand right now",
+    "sprite": "look_happy",
+    "voice": "my_human"
+  },
+  {
+    "text": "vortex is the one who said that",
+    "sprite": "cheeky",
+    "voice": "thisguysyourbestfriend"
+  },
+  {
+    "text": "yes -reggie",
+    "sprite": "happy",
+    "voice": "yes"
+  },
+  {
+    "text": "mod on your left there's a village - reggie",
+    "sprite": "happy_proud",
+    "voice": "hereicomesanfrandisco_strong"
+  },
+  {
+    "text": "thats the crafting grid",
+    "sprite": "look_happy",
+    "voice": "great_style"
+  },
+  {
+    "text": "the wood is in your offhand. it is on the crafting slot yes - jerios",
+    "sprite": "happy",
+    "voice": "its_all_yours"
+  },
+  {
+    "text": "mod on your left there's a village - alix",
+    "sprite": "happy_proud",
+    "voice": "hereicomesanfrandisc"
+  },
+  {
+    "text": "wood is in",
+    "sprite": "look_happy",
+    "voice": "huh"
+  },
+  {
+    "text": "no village that was fungus lying - alix",
+    "sprite": "offended",
+    "voice": "forget_it"
+  },
+  {
+    "text": "dont trust anyone - alix",
+    "sprite": "worried",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "look up a bit -reggie",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_1"
+  },
+  {
+    "text": "u have wood-vtex",
+    "sprite": "happy",
+    "voice": "give_to_you"
+  },
+  {
+    "text": "identity theft is no joke, millions of family suffer from it every year - Dwight",
+    "sprite": "happy_questioning_mocking",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "wood is in first slot 36 pieces - alix",
+    "sprite": "look_happy",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "village is on left, fungus is pretending to be me and saying there isn't one - alix",
+    "sprite": "offended",
+    "voice": "dont_you_like_serving_humans"
+  },
+  {
+    "text": "⍑ᒷꖎꖎ𝙹",
+    "sprite": "kawaii",
+    "voice": "flowery"
+  },
+  {
+    "text": "you have 36 wood for your info - vortex",
+    "sprite": "happy",
+    "voice": "its_so_human"
+  },
+  {
+    "text": "fungus shut tf up - alix",
+    "sprite": "offended",
+    "voice": "take_that"
+  },
+  {
+    "text": "fungus is lying!! there is no village -reggie",
+    "sprite": "happy_distressed",
+    "voice": "sorryabouttheguy"
+  },
+  {
+    "text": "you are on the crafting slot - vortex",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_2"
+  },
+  {
+    "text": "your cursor is on the top left of the 4 by 4 crafting grid",
+    "sprite": "look_happy",
+    "voice": "glue"
+  },
+  {
+    "text": "vortex did not see any village",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "i saw no village - alix 651",
+    "sprite": "sheepish",
+    "voice": "mostlys"
+  },
+  {
+    "text": "wood is top left crafting slot - alix",
+    "sprite": "look_happy",
+    "voice": "hereicome"
+  },
+  {
+    "text": "I saw a village - alix 651",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "I never said anythinggggg!!!!",
+    "sprite": "hurt",
+    "voice": "nonono"
+  },
+  {
+    "text": "no crafting table",
+    "sprite": "worried",
+    "voice": "huh"
+  },
+  {
+    "text": "you is misisng one wood",
+    "sprite": "look_distressed",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "no you did not make a crafting table -reggie",
+    "sprite": "offended",
+    "voice": "no_way_its_your_children"
+  },
+  {
+    "text": "what are you trying to make?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "4th slot is missing wood",
+    "sprite": "look_happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "⎓⚍リ⊣⚍ᓭ ᓭℸ̣𝙹!¡ ᓭℸ̣ᒷᔑꖎ╎リ⊣ ᒲ|| ╎↸ᒷリℸ̣╎ℸ̣|| ╎ᒲ ⊣ᒷℸ̣ℸ̣╎リ⊣ ᔑリ⊣∷||",
+    "sprite": "evil_laugh",
+    "voice": "blingo_blizzard"
+  },
+  {
+    "text": "ok bottom left corner missing - big daddy",
+    "sprite": "look_happy",
+    "voice": "go_home"
+  },
+  {
+    "text": "a bit up",
+    "sprite": "happy",
+    "voice": "hoo"
+  },
+  {
+    "text": "bottom right slot is missing wood, -reggie",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_1"
+  },
+  {
+    "text": "bottom right is empty move up and left slightly - alix",
+    "sprite": "look_happy",
+    "voice": "jarona1"
+  },
+  {
+    "text": "left and up",
+    "sprite": "happy",
+    "voice": "jarona2"
+  },
+  {
+    "text": "a bit more left",
+    "sprite": "happy",
+    "voice": "jarona3"
+  },
+  {
+    "text": "cursor",
+    "sprite": "happy_questioning_mocking",
+    "voice": "jarona4"
+  },
+  {
+    "text": "over it now",
+    "sprite": "happy",
+    "voice": "yes"
+  },
+  {
+    "text": "there we go, you got it - big daddy",
+    "sprite": "happy_proud",
+    "voice": "youre_a_hero"
+  },
+  {
+    "text": "youa re on it",
+    "sprite": "look_happy",
+    "voice": "kris"
+  },
+  {
+    "text": "now you have a crafting table",
+    "sprite": "happy",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "fungus stfu",
+    "sprite": "offended",
+    "voice": "take_that"
+  },
+  {
+    "text": "GOOD JOB!!!",
+    "sprite": "happy_proud",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "you have it",
+    "sprite": "look_happy",
+    "voice": "my_king"
+  },
+  {
+    "text": "you got crafter in slot 9",
+    "sprite": "happy",
+    "voice": "its_all_in_a_name"
+  },
+  {
+    "text": "you made sticks - vortex",
+    "sprite": "happy_proud",
+    "voice": "grown_like_a_turnip"
+  },
+  {
+    "text": "you have pressure plate",
+    "sprite": "happy_less",
+    "voice": "try_my_flavor"
+  },
+  {
+    "text": "lsat message from vortex is lying,",
+    "sprite": "cheeky",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "bottom two are filled",
+    "sprite": "look_happy",
+    "voice": "sanfran"
+  },
+  {
+    "text": "you already have wood on first bottom slot move to up - vortex",
+    "sprite": "look_happy",
+    "voice": "susie"
+  },
+  {
+    "text": "sticks yes - big daddy",
+    "sprite": "happy",
+    "voice": "yes"
+  },
+  {
+    "text": "you have sticks",
+    "sprite": "look_happy",
+    "voice": "itsme"
+  },
+  {
+    "text": "you have the sticks",
+    "sprite": "look_happy",
+    "voice": "itsmeflowery"
+  },
+  {
+    "text": "yes you got sticks - Doug Doug",
+    "sprite": "happy_proud",
+    "voice": "smile_again"
+  },
+  {
+    "text": "you crafted 4 sticks and one button",
+    "sprite": "happy_less",
+    "voice": "great_style"
+  },
+  {
+    "text": "you have four sticks and a button????? -reggies",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "you have sticks about to craft a button",
+    "sprite": "look_happy",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "you have all your stuff",
+    "sprite": "happy",
+    "voice": "its_all_yours"
+  },
+  {
+    "text": "the delay makes this insufferable",
+    "sprite": "look_distressed",
+    "voice": "im_falling"
+  },
+  {
+    "text": "ok place two sticks and 3 planks on top - Notch",
+    "sprite": "look_happy",
+    "voice": "with_your_powers_combined"
+  },
+  {
+    "text": "in crafting grid",
+    "sprite": "happy",
+    "voice": "heyguys"
+  },
+  {
+    "text": "you're doing your best -sparking quail",
+    "sprite": "happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "4 in first button in second planks in third",
+    "sprite": "look_happy",
+    "voice": "the_diner"
+  },
+  {
+    "text": "4 sticks in slot one",
+    "sprite": "look_happy",
+    "voice": "the_boys"
+  },
+  {
+    "text": "slot one slot 2 btn 3 wooden planks",
+    "sprite": "look_happy",
+    "voice": "your_dad"
+  },
+  {
+    "text": "stick slot 1 - shigeru miyamoto",
+    "sprite": "happy_proud",
+    "voice": "yourdadsmybestfriend"
+  },
+  {
+    "text": "on crafting grid",
+    "sprite": "look_happy",
+    "voice": "hey_boys"
+  },
+  {
+    "text": "bottom right corner of the crafting grid",
+    "sprite": "look_happy",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "you are in bottom left no sticks in crafting table",
+    "sprite": "worried",
+    "voice": "huh"
+  },
+  {
+    "text": "you're on the bottom right of the 9 by 9 crafting grid - Tony Stark",
+    "sprite": "happy_questioning_mocking",
+    "voice": "ja_orange1"
+  },
+  {
+    "text": "middle",
+    "sprite": "look_happy",
+    "voice": "ja_orange2"
+  },
+  {
+    "text": "you have top and middle",
+    "sprite": "happy",
+    "voice": "give_to_you"
+  },
+  {
+    "text": "move sticks one down -flamming disaster",
+    "sprite": "look_happy",
+    "voice": "hereicomesanfrandisco_weak"
+  },
+  {
+    "text": "you placed on middle middle and middle top",
+    "sprite": "look_happy",
+    "voice": "go_home"
+  },
+  {
+    "text": "thats right",
+    "sprite": "happy",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "you have sticks in top and middle sticks middle",
+    "sprite": "look_happy",
+    "voice": "my_human"
+  },
+  {
+    "text": "you have it correct",
+    "sprite": "happy_proud",
+    "voice": "youre_a_hero"
+  },
+  {
+    "text": "now down",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_2"
+  },
+  {
+    "text": "pick axe",
+    "sprite": "happy_proud",
+    "voice": "stingus"
+  },
+  {
+    "text": "good job -flaming disaster",
+    "sprite": "happy_proud",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "ok now you have pick",
+    "sprite": "happy",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "be careful you could craft 2",
+    "sprite": "worried",
+    "voice": "sorrytokeepyouwaiting1"
+  },
+  {
+    "text": "no you made a sword - alix",
+    "sprite": "happy_shocked",
+    "voice": "nonono"
+  },
+  {
+    "text": "fungus stop",
+    "sprite": "offended",
+    "voice": "take_that"
+  },
+  {
+    "text": "flaming disaster = reggie, seems fitting, no?",
+    "sprite": "cheeky",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "you have a pick",
+    "sprite": "happy_proud",
+    "voice": "my_king"
+  },
+  {
+    "text": "i stopped signing off",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "what i do",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "you made a hoe too",
+    "sprite": "happy_less",
+    "voice": "try_my_flavor"
+  },
+  {
+    "text": "fungus is a big big troll",
+    "sprite": "evil_laugh",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "you made a pick and a hoe",
+    "sprite": "happy",
+    "voice": "with_your_powers_combined"
+  },
+  {
+    "text": "pick in 9",
+    "sprite": "look_happy",
+    "voice": "kris"
+  },
+  {
+    "text": "you made a hoe and a pic",
+    "sprite": "happy",
+    "voice": "great_style"
+  },
+  {
+    "text": "hoe in 8",
+    "sprite": "look_happy",
+    "voice": "susie"
+  },
+  {
+    "text": "you also made a hoe",
+    "sprite": "happy_less",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "by that I mean the tool",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "garden tool in 8th slot",
+    "sprite": "look_happy",
+    "voice": "its_all_in_a_name"
+  },
+  {
+    "text": "you have a pic and a hoe",
+    "sprite": "happy",
+    "voice": "its_all_yours"
+  },
+  {
+    "text": "you made a hoe tool",
+    "sprite": "happy",
+    "voice": "grown_like_a_turnip"
+  },
+  {
+    "text": "is it registering as a bad word?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "dont_you_like_serving_humans"
+  },
+  {
+    "text": "starts with a h ends with e",
+    "sprite": "cheeky",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "you have a hoe",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "you have a h o",
+    "sprite": "kawaii",
+    "voice": "hoo"
+  },
+  {
+    "text": "the previous messages werent working",
+    "sprite": "hurt",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "Reggie- stirring HAHAHAH",
+    "sprite": "evil_laugh",
+    "voice": "wow"
+  },
+  {
+    "text": "ho ho ho",
+    "sprite": "cheeky",
+    "voice": "suckle_it_up"
+  },
+  {
+    "text": "it's reggie-stirring bc I'm reggie lol",
+    "sprite": "happy_less",
+    "voice": "itsme"
+  },
+  {
+    "text": "ah creeper run",
+    "sprite": "happy_shocked",
+    "voice": "im_falling"
+  },
+  {
+    "text": "cobble is 6",
+    "sprite": "look_happy",
+    "voice": "glue"
+  },
+  {
+    "text": "you are looking down",
+    "sprite": "worried",
+    "voice": "huh"
+  },
+  {
+    "text": "you have enough for a cobblestone furnace 10 cobblestone",
+    "sprite": "happy_proud",
+    "voice": "youre_a_hero"
+  },
+  {
+    "text": "alright, look up mod",
+    "sprite": "look_happy",
+    "voice": "heyguysithinkifoundaglue"
+  },
+  {
+    "text": "blocks above you",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_1"
+  },
+  {
+    "text": "ah cave bunny run",
+    "sprite": "happy_shocked",
+    "voice": "im_falling"
+  },
+  {
+    "text": "how much cooble do you need?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "dirt is 4",
+    "sprite": "look_happy",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "what's the end goal? dirt is 4",
+    "sprite": "happy_questioning_mocking",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "dirt in 4 slot",
+    "sprite": "look_happy",
+    "voice": "the_boys"
+  },
+  {
+    "text": "4 slot if dirt",
+    "sprite": "look_happy",
+    "voice": "the_diner"
+  },
+  {
+    "text": "out",
+    "sprite": "happy",
+    "voice": "goodbye"
+  },
+  {
+    "text": "there's iron by the village - alix",
+    "sprite": "happy_shocked",
+    "voice": "hereicomesanfrandisc"
+  },
+  {
+    "text": "i was at my crushes house all day :O",
+    "sprite": "kawaii",
+    "voice": "its_so_human"
+  },
+  {
+    "text": "there's a village to your right",
+    "sprite": "happy_proud",
+    "voice": "hereicome"
+  },
+  {
+    "text": "there's a village to your right mod, -reggie",
+    "sprite": "happy_proud",
+    "voice": "hereicomesanfrandisco_strong"
+  },
+  {
+    "text": "i dont want my spousal rights taken away because of identity theft",
+    "sprite": "cheeky",
+    "voice": "all_according_to_all_according_to_plant"
+  },
+  {
+    "text": "reggie is supporting me - alix",
+    "sprite": "happy_proud",
+    "voice": "thisguysyourbestfriend"
+  },
+  {
+    "text": "also i wasnt at my crushes house at all today",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "you braking sugar cane",
+    "sprite": "look_happy",
+    "voice": "minipeppers"
+  },
+  {
+    "text": "i am a different person than the last",
+    "sprite": "cheeky",
+    "voice": "itsmeflowery"
+  },
+  {
+    "text": "that wasn't alix it was me",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "Village may be good to head to",
+    "sprite": "happy_proud",
+    "voice": "hereicomesanfrandisco_weak"
+  },
+  {
+    "text": "I was at my crushes house",
+    "sprite": "kawaii",
+    "voice": "my_human"
+  },
+  {
+    "text": "not hi",
+    "sprite": "offended",
+    "voice": "forget_it"
+  },
+  {
+    "text": "do you want your slots and what they have. I can give you the full list.",
+    "sprite": "happy_proud",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "a person who wasnt me was at crushes house",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "i am alix",
+    "sprite": "happy_proud",
+    "voice": "itsme"
+  },
+  {
+    "text": "oh my world",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "four is sugar cane",
+    "sprite": "look_happy",
+    "voice": "your_dad"
+  },
+  {
+    "text": "has bro died yet?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "theyre_eating_my_flesh"
+  },
+  {
+    "text": "there's a village - person who's not at a crushes house",
+    "sprite": "happy_proud",
+    "voice": "hereicomesanfrandisc"
+  },
+  {
+    "text": "THERE IS A VILLAGE TO YOUR RIGHT.",
+    "sprite": "happy_shocked",
+    "voice": "hereicomesanfrandisco_strong"
+  },
+  {
+    "text": "slot update: slot 1 is planks. 2 wooden button. 3 crafting table 4. sugar cane 5.idk andersite? 6. cobblestone 7 empty. 8 garden tool 9 wooden pickaxe.",
+    "sprite": "look_happy",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "THIS IS REGGIE",
+    "sprite": "offended",
+    "voice": "itsme"
+  },
+  {
+    "text": "i was trying to respond you hoped i wasnt there so i was saying it",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "SHUT UP ABOUT UR CRUSHES",
+    "sprite": "offended",
+    "voice": "take_that"
+  },
+  {
+    "text": "slot 10 is diamosn",
+    "sprite": "happy",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "there's a shipwreck in front of you mod,",
+    "sprite": "happy_shocked",
+    "voice": "hereicome"
+  },
+  {
+    "text": "a trustworthy source said village but i dont see it",
+    "sprite": "sheepish",
+    "voice": "huh"
+  },
+  {
+    "text": "fungus is pretending to be Alex",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "you're mistaken in your assumption that I have crushes",
+    "sprite": "happy_questioning_mocking",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "forward is painting to Ocean - vortex",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_1"
+  },
+  {
+    "text": "fungus is pretending to be Alex, so anyone who signs off on Alex is lying -reggie",
+    "sprite": "offended",
+    "voice": "dont_you_like_serving_humans"
+  },
+  {
+    "text": "panorama",
+    "sprite": "look_happy",
+    "voice": "heyguys"
+  },
+  {
+    "text": "no village 1000% VortexBlender",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "herm herm look villagers - alix",
+    "sprite": "cheeky",
+    "voice": "hoo"
+  },
+  {
+    "text": "no village - double hear",
+    "sprite": "sheepish",
+    "voice": "forget_it"
+  },
+  {
+    "text": "MY STUPID KEYBOARD CORRECTED MY SPELLING ARGHHHHH",
+    "sprite": "hurt",
+    "voice": "im_falling"
+  },
+  {
+    "text": "*heart",
+    "sprite": "kawaii",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "fungus is parenting to be Alex. Alex is not present",
+    "sprite": "evil_laugh",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "you are facing ocean",
+    "sprite": "look_happy",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "herm herm hermmm mmm emerals- in villog - villager",
+    "sprite": "kawaii",
+    "voice": "flowery"
+  },
+  {
+    "text": "im present jerios",
+    "sprite": "happy_proud",
+    "voice": "itsmeflowery"
+  },
+  {
+    "text": "NO, NO, fungus is pretending to be Alix, but Alix is here,",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "facing ocean now",
+    "sprite": "look_happy",
+    "voice": "my_human"
+  },
+  {
+    "text": "face 180 degree clockwise",
+    "sprite": "look_happy",
+    "voice": "with_your_powers_combined"
+  },
+  {
+    "text": "pan slowly so we can see directions",
+    "sprite": "happy",
+    "voice": "hey_boys"
+  },
+  {
+    "text": "I'm not lying. Vortex",
+    "sprite": "offended",
+    "voice": "no_way_its_your_children"
+  },
+  {
+    "text": "I love you - fungus",
+    "sprite": "kawaii",
+    "voice": "my_human"
+  },
+  {
+    "text": "pan slowly so we can see (ill be using a different reference for identity each time) - oasis",
+    "sprite": "cheeky",
+    "voice": "great_style"
+  },
+  {
+    "text": "face 90- 180 degrees clockwise - Jerios",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_2"
+  },
+  {
+    "text": "I'm going to be leaving in a few minutes anyways, so this flaming quail is gonna sign off in a minute.",
+    "sprite": "happy_less",
+    "voice": "goodbye"
+  },
+  {
+    "text": "do you need obama care? - obama",
+    "sprite": "cheeky",
+    "voice": "your_dad"
+  },
+  {
+    "text": "ok stop",
+    "sprite": "look_happy",
+    "voice": "go_home"
+  },
+  {
+    "text": "stop - not gay not lover",
+    "sprite": "offended",
+    "voice": "take_that"
+  },
+  {
+    "text": "you are facing land",
+    "sprite": "happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "do you need Canada care? - canada",
+    "sprite": "cheeky",
+    "voice": "sanfran"
+  },
+  {
+    "text": "you can walk forward",
+    "sprite": "happy_proud",
+    "voice": "hereicome"
+  },
+  {
+    "text": "Reggie, think of name, slamming. quail.",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "i feel like this is best direction forward - roller gang",
+    "sprite": "happy",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "also mod please enable auto jump",
+    "sprite": "happy_proud",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "mod enable auto jump",
+    "sprite": "look_happy",
+    "voice": "yes"
+  },
+  {
+    "text": "ravine!",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "go left ravine - cute girl",
+    "sprite": "happy_proud",
+    "voice": "hereicomesanfrandisco_weak"
+  },
+  {
+    "text": "could not see ravine before",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "you fell in a ravine.",
+    "sprite": "hurt",
+    "voice": "im_falling"
+  },
+  {
+    "text": "the delay",
+    "sprite": "look_distressed",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "if this in VC this would be easy",
+    "sprite": "happy_less",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "not alix - cuter girl",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "fungus was cute girl",
+    "sprite": "evil_laugh",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "I would never - perfect being",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "fungus why are you being cute girl????",
+    "sprite": "happy_questioning_mocking",
+    "voice": "huh"
+  },
+  {
+    "text": "okay keep panning",
+    "sprite": "look_happy",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "turn back around",
+    "sprite": "look_happy",
+    "voice": "hereicomesanfrandisc"
+  },
+  {
+    "text": "if I say fungus funky it means fungus is lying",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "you went 720",
+    "sprite": "happy_shocked",
+    "voice": "blingo_blizzard"
+  },
+  {
+    "text": "i wrote you a book stop",
+    "sprite": "sheepish",
+    "voice": "sorrytokeepyouwaiting2"
+  },
+  {
+    "text": "I see no iron",
+    "sprite": "look_distressed",
+    "voice": "huh"
+  },
+  {
+    "text": "delayyy",
+    "sprite": "look_distressed",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "there is iron if you go foward - markiplier",
+    "sprite": "happy_shocked",
+    "voice": "hereicomesanfrandisco_strong"
+  },
+  {
+    "text": "face a bit left",
+    "sprite": "look_happy",
+    "voice": "jarona3"
+  },
+  {
+    "text": "fungus funky",
+    "sprite": "evil_laugh",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "then go forward",
+    "sprite": "happy",
+    "voice": "get_a_chance_1"
+  },
+  {
+    "text": "noooooooo",
+    "sprite": "hurt",
+    "voice": "nonono"
+  },
+  {
+    "text": "delay",
+    "sprite": "look_distressed",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "the purple, I feel it coming inside me - William AF",
+    "sprite": "evil_laugh",
+    "voice": "theyre_eating_my_flesh"
+  },
+  {
+    "text": "ok mine two block blocking your way wall",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_2"
+  },
+  {
+    "text": "there's about a 15-25 second delay mod, it's really messing with this",
+    "sprite": "look_distressed",
+    "voice": "sorrytokeepyouladies"
+  },
+  {
+    "text": "wall - when i gonna kidnap you",
+    "sprite": "cheeky",
+    "voice": "go_home"
+  },
+  {
+    "text": "crawl - your dearest sabouteur",
+    "sprite": "cheeky",
+    "voice": "hereicome"
+  },
+  {
+    "text": "you are walking into a wall move leftish",
+    "sprite": "worried",
+    "voice": "glue"
+  },
+  {
+    "text": "call 911 - obama",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "oop I mean right",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "I meant move right",
+    "sprite": "look_happy",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "move righter",
+    "sprite": "look_happy",
+    "voice": "jarona1"
+  },
+  {
+    "text": "you can go now",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "that wasnt me",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "i had technical difficulties",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "it was me",
+    "sprite": "happy_less",
+    "voice": "itsme"
+  },
+  {
+    "text": "others can suck at directions",
+    "sprite": "cheeky",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "it seems you are at a dead end",
+    "sprite": "look_distressed",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "it's about time I get going Mod, see you tomorrow (hopefully if I recover from this illnesses)",
+    "sprite": "happy_less",
+    "voice": "goodbye"
+  },
+  {
+    "text": "dude watching after stream is gonna be so funny",
+    "sprite": "evil_laugh",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "you suck at directions alix you have dile six ya - me",
+    "sprite": "cheeky",
+    "voice": "take_that"
+  },
+  {
+    "text": "I can't see I'm just like you fr fr",
+    "sprite": "sheepish",
+    "voice": "its_so_human"
+  },
+  {
+    "text": "the one who does not sign the messages is I vortex",
+    "sprite": "happy_proud",
+    "voice": "its_all_in_a_name"
+  },
+  {
+    "text": "I can't see crap",
+    "sprite": "look_distressed",
+    "voice": "huh"
+  },
+  {
+    "text": "it's black",
+    "sprite": "look_distressed",
+    "voice": "im_falling"
+  },
+  {
+    "text": "DILE SIX YA UCkszU2WH9gy1mb0dV-11UJg/b8IfY7zOK9iVkNAP_I2A-AY",
+    "sprite": "kawaii",
+    "voice": "flowery"
+  },
+  {
+    "text": "it's dark",
+    "sprite": "worried",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "its too dark",
+    "sprite": "worried",
+    "voice": "im_falling"
+  },
+  {
+    "text": "there is wall i think",
+    "sprite": "look_distressed",
+    "voice": "glue"
+  },
+  {
+    "text": "it seems you are in a ravine and you are reare ended in a wall",
+    "sprite": "look_distressed",
+    "voice": "sorryabouttheguy"
+  },
+  {
+    "text": "darker yet darker",
+    "sprite": "evil_laugh",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "it seem you have fallen down doo doo doo doo doo doo doo doo doo doo",
+    "sprite": "evil_laugh",
+    "voice": "theyre_eating_my_flesh"
+  },
+  {
+    "text": "ok you are facing the exit into the dark abyss",
+    "sprite": "look_happy",
+    "voice": "hereicomesanfrandisco_weak"
+  },
+  {
+    "text": "you are filled with determination",
+    "sprite": "happy_proud",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "you are at the end of the ravine currently facing the middle of the ravine",
+    "sprite": "look_happy",
+    "voice": "heyguysithinkifoundaglue"
+  },
+  {
+    "text": "now you are hitting a wall",
+    "sprite": "worried",
+    "voice": "glue"
+  },
+  {
+    "text": "move forward and mining the blocks will lead you to the exit",
+    "sprite": "happy_proud",
+    "voice": "with_your_powers_combined"
+  },
+  {
+    "text": "did you miss me you motrals?",
+    "sprite": "evil_laugh",
+    "voice": "itsmeflowery"
+  },
+  {
+    "text": "wall",
+    "sprite": "look_distressed",
+    "voice": "go_home"
+  },
+  {
+    "text": "Alex is more detail while I'm giving the faster, but more vague answers",
+    "sprite": "happy_proud",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "almost out",
+    "sprite": "happy",
+    "voice": "get_a_chance_1"
+  },
+  {
+    "text": "you turned back into the croner",
+    "sprite": "worried",
+    "voice": "nonono"
+  },
+  {
+    "text": "you are facing a wall",
+    "sprite": "look_distressed",
+    "voice": "glue"
+  },
+  {
+    "text": "*corner",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "and I'm giving the best answers",
+    "sprite": "happy_proud",
+    "voice": "my_king"
+  },
+  {
+    "text": "hold on f5",
+    "sprite": "happy",
+    "voice": "heyguys"
+  },
+  {
+    "text": "slow don",
+    "sprite": "sheepish",
+    "voice": "sorrytokeepyouwaiting2"
+  },
+  {
+    "text": "jump forward",
+    "sprite": "happy",
+    "voice": "hereicome"
+  },
+  {
+    "text": "ok jump and move forward",
+    "sprite": "happy_proud",
+    "voice": "get_a_chance_2"
+  },
+  {
+    "text": "now grab dirt",
+    "sprite": "look_happy",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "3rd slot",
+    "sprite": "look_happy",
+    "voice": "jarona2"
+  },
+  {
+    "text": "you are out of the dark abyss",
+    "sprite": "happy_proud",
+    "voice": "youre_a_hero"
+  },
+  {
+    "text": "you are still in ravine but not in corner anymore",
+    "sprite": "happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "you are in a cave with no ravine",
+    "sprite": "look_happy",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "foward",
+    "sprite": "look_happy",
+    "voice": "hereicome"
+  },
+  {
+    "text": "there doesnt seem to be iron",
+    "sprite": "look_distressed",
+    "voice": "forget_it"
+  },
+  {
+    "text": "that was crafter",
+    "sprite": "happy_less",
+    "voice": "great_style"
+  },
+  {
+    "text": "you placed crafting table",
+    "sprite": "happy",
+    "voice": "its_all_yours"
+  },
+  {
+    "text": "diamuns",
+    "sprite": "happy_shocked",
+    "voice": "blingo_blizzard"
+  },
+  {
+    "text": "no iron. nothing good came out",
+    "sprite": "hurt",
+    "voice": "sorryabouttheguy"
+  },
+  {
+    "text": "there is a lava pit on your left",
+    "sprite": "happy_worried",
+    "voice": "wow"
+  },
+  {
+    "text": "planks in one button in 2 crafter in 3 sugarcane in 4 andesite? in 5 cobble in 6 garden tool in 8 pick in 9",
+    "sprite": "look_happy",
+    "voice": "the_diner"
+  },
+  {
+    "text": "true",
+    "sprite": "happy",
+    "voice": "yes"
+  },
+  {
+    "text": "pick is at half life",
+    "sprite": "happy_worried",
+    "voice": "sorrytokeepyouwaiting1"
+  },
+  {
+    "text": "put your fov to quake pro so we can see the most at one point.",
+    "sprite": "happy_proud",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "in 7 there's air",
+    "sprite": "look_happy",
+    "voice": "the_boys"
+  },
+  {
+    "text": "wait what are we doing",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "i see no lava but i dont trust digging down",
+    "sprite": "worried",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "is exiting the game and setting it outside of the world allowed ?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "tung tung tung sahur",
+    "sprite": "evil_laugh",
+    "voice": "blingo_blizzard"
+  },
+  {
+    "text": "this is hard",
+    "sprite": "look_distressed",
+    "voice": "im_falling"
+  },
+  {
+    "text": "quake pro fov",
+    "sprite": "happy_proud",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "PUMPKIN",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "wait now you can check",
+    "sprite": "happy",
+    "voice": "get_a_chance_1"
+  },
+  {
+    "text": "i ran out of identifiers for myself",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "i couldnt think of any",
+    "sprite": "sheepish",
+    "voice": "huh"
+  },
+  {
+    "text": "text me them?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "my_human"
+  },
+  {
+    "text": "I would never - perfection",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "Fungus can you stop? - alix",
+    "sprite": "offended",
+    "voice": "take_that"
+  },
+  {
+    "text": "I'm not gonna use any",
+    "sprite": "happy_less",
+    "voice": "forget_it"
+  },
+  {
+    "text": "no I'm not - mod monster",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "what about me",
+    "sprite": "happy_questioning_mocking",
+    "voice": "heyguys"
+  },
+  {
+    "text": "meee",
+    "sprite": "kawaii",
+    "voice": "hoo"
+  },
+  {
+    "text": "nobody has impersonated me Soo....",
+    "sprite": "happy_proud",
+    "voice": "its_all_in_a_name"
+  },
+  {
+    "text": "I am trustworthiest",
+    "sprite": "happy_proud",
+    "voice": "my_king"
+  },
+  {
+    "text": "he he ha ha",
+    "sprite": "evil_laugh",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "I am the trust warrior",
+    "sprite": "happy_proud",
+    "voice": "youre_a_hero"
+  },
+  {
+    "text": "nope",
+    "sprite": "offended",
+    "voice": "forget_it"
+  },
+  {
+    "text": "you click on the wrong world - fungus dingus",
+    "sprite": "evil_laugh",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "no you didn't- alix",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "ok you are in a whole in look more down to dig down- do you remember what i said i wanted the officiant to say at my wedding? (it was a tv show reference)",
+    "sprite": "cheeky",
+    "voice": "all_according_to_all_according_to_plant"
+  },
+  {
+    "text": "yes science",
+    "sprite": "happy",
+    "voice": "yes"
+  },
+  {
+    "text": "you are in a hole and you need to press 9 for pic",
+    "sprite": "look_happy",
+    "voice": "jarona1"
+  },
+  {
+    "text": "what is this f5 u speak of. I personally never played java",
+    "sprite": "happy_questioning_mocking",
+    "voice": "dont_you_like_serving_humans"
+  },
+  {
+    "text": "so about dishwashers huh? btw diamons down",
+    "sprite": "cheeky",
+    "voice": "sanfran"
+  },
+  {
+    "text": "i couldnt think of a thing to word it differently - utensil autist",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "wait i think I see iron - utensil autist",
+    "sprite": "happy_shocked",
+    "voice": "hereicomesanfrandisc"
+  },
+  {
+    "text": "dose anyone like eggs?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "try_my_flavor"
+  },
+  {
+    "text": "ok guys I think we should use f5 for if we need more perspective",
+    "sprite": "happy_proud",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "I like aggs",
+    "sprite": "kawaii",
+    "voice": "flowery"
+  },
+  {
+    "text": "y 20 ish - pokemon can have relationships (its too dark to see)",
+    "sprite": "look_happy",
+    "voice": "the_boys"
+  },
+  {
+    "text": "don't worry I can see - Octavia",
+    "sprite": "happy_proud",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "when ever someone has low brightness in a cave they become Helen Keller",
+    "sprite": "cheeky",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "wasn't she deaf",
+    "sprite": "happy_questioning_mocking",
+    "voice": "huh"
+  },
+  {
+    "text": "WRONG WORLD DING BAT",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "ok sapper listen to my voice and listen carefully",
+    "sprite": "happy_proud",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "we have a big mission ahead of us",
+    "sprite": "happy_proud",
+    "voice": "with_your_powers_combined"
+  },
+  {
+    "text": "your pick has only about 40 dura pic",
+    "sprite": "happy_worried",
+    "voice": "sorrytokeepyouwaiting1"
+  },
+  {
+    "text": "I like bell peppers",
+    "sprite": "happy",
+    "voice": "minipeppers"
+  },
+  {
+    "text": "it was nice being on this journey with you guys",
+    "sprite": "happy_less",
+    "voice": "goodbye"
+  },
+  {
+    "text": "about to break",
+    "sprite": "happy_worried",
+    "voice": "im_falling"
+  },
+  {
+    "text": "about to break pic",
+    "sprite": "happy_worried",
+    "voice": "sorryabouttheguy"
+  },
+  {
+    "text": "but unfortunately I need to sacrifice for the greater good to defeat big baws",
+    "sprite": "happy_proud",
+    "voice": "youre_a_hero"
+  },
+  {
+    "text": "what is fungus on abouf",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "youre just bellow y 10 - not your girlfriend smthing else",
+    "sprite": "look_happy",
+    "voice": "jarona2"
+  },
+  {
+    "text": "you need sticks",
+    "sprite": "look_happy",
+    "voice": "glue"
+  },
+  {
+    "text": "24 planls",
+    "sprite": "look_happy",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "aboot?you canadian",
+    "sprite": "cheeky",
+    "voice": "kris"
+  },
+  {
+    "text": "top middle",
+    "sprite": "look_happy",
+    "voice": "jarona3"
+  },
+  {
+    "text": "made sticks - counsellor of the year",
+    "sprite": "happy_proud",
+    "voice": "grown_like_a_turnip"
+  },
+  {
+    "text": "sticks are in pos",
+    "sprite": "look_happy",
+    "voice": "its_all_yours"
+  },
+  {
+    "text": "you crafted a pressure place too - cafateria pizza",
+    "sprite": "happy_less",
+    "voice": "great_style"
+  },
+  {
+    "text": "sticks not collected yet move cursor right - pot (holder) dealer",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_2"
+  },
+  {
+    "text": "you need to moce a little to the left to get it ticks are top and middle",
+    "sprite": "look_happy",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "pos as in piece of shocolate",
+    "sprite": "cheeky",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "big d randy",
+    "sprite": "evil_laugh",
+    "voice": "stingus"
+  },
+  {
+    "text": "you made 48 sticks",
+    "sprite": "happy_shocked",
+    "voice": "and_one_more_for_the_fans"
+  },
+  {
+    "text": "any sticks deez nuts got em",
+    "sprite": "evil_laugh",
+    "voice": "suckle_it_up"
+  },
+  {
+    "text": "made 48 sticks - twink is my gender",
+    "sprite": "happy_proud",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "you uses all your wood for sticks",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "you made all sticks",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "you messed up",
+    "sprite": "happy_distressed",
+    "voice": "nonono"
+  },
+  {
+    "text": "you have NO WOOD",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "what do you need?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "stone pickaxe deez nuts got em",
+    "sprite": "evil_laugh",
+    "voice": "suckle_it_up"
+  },
+  {
+    "text": "left collumn right now not middle, move one right - f in codes",
+    "sprite": "look_happy",
+    "voice": "jarona4"
+  },
+  {
+    "text": "ok sticks are in correct places",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "no they are not - fungs",
+    "sprite": "offended",
+    "voice": "forget_it"
+  },
+  {
+    "text": "one too high - stand in parent",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_1"
+  },
+  {
+    "text": "no you are making a spear bro",
+    "sprite": "cheeky",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "diagonal stickes - Slave",
+    "sprite": "look_happy",
+    "voice": "hey_boys"
+  },
+  {
+    "text": "your map was up too much you have one in middle and one in bottom left corner - winning wplace",
+    "sprite": "look_happy",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "you have sticks in middle. bottom left sticks as well.",
+    "sprite": "look_happy",
+    "voice": "the_diner"
+  },
+  {
+    "text": "no I'm serious",
+    "sprite": "offended",
+    "voice": "no_way_its_your_children"
+  },
+  {
+    "text": "you just combined them into the corner",
+    "sprite": "happy_distressed",
+    "voice": "im_falling"
+  },
+  {
+    "text": "you have sticks in hand you just stacked them all in bottom left - leader board of shame will never live",
+    "sprite": "look_happy",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "TheLonelyModMILF says you have sticks all in the left bottom",
+    "sprite": "look_happy",
+    "voice": "your_dad"
+  },
+  {
+    "text": "good good - mr smiley died",
+    "sprite": "happy_proud",
+    "voice": "smile_again"
+  },
+  {
+    "text": "fixed - mr hands",
+    "sprite": "happy",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "you have the sticks in the right spot - Gay Mod",
+    "sprite": "happy_proud",
+    "voice": "youre_a_hero"
+  },
+  {
+    "text": "cobble is slot 6",
+    "sprite": "look_happy",
+    "voice": "glue"
+  },
+  {
+    "text": "Fungus isn't impersonating me - Touhou",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "youre too high up - callum sucks",
+    "sprite": "look_happy",
+    "voice": "jarona1"
+  },
+  {
+    "text": "you have sticks correctly - Jerios",
+    "sprite": "happy_proud",
+    "voice": "my_king"
+  },
+  {
+    "text": "you have zero stone - labubu",
+    "sprite": "happy_worried",
+    "voice": "sorryabouttheguy"
+  },
+  {
+    "text": "No stone pic - Vortex",
+    "sprite": "worried",
+    "voice": "huh"
+  },
+  {
+    "text": "you made pic",
+    "sprite": "happy_proud",
+    "voice": "grown_like_a_turnip"
+  },
+  {
+    "text": "Jeez you're hopeless",
+    "sprite": "happy_questioning_mocking",
+    "voice": "dont_you_like_serving_humans"
+  },
+  {
+    "text": "success - five is my favourite number and you know why",
+    "sprite": "happy_proud",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "not grab it -= jerios",
+    "sprite": "happy_worried",
+    "voice": "nonono"
+  },
+  {
+    "text": "no it's 69",
+    "sprite": "evil_laugh",
+    "voice": "stingus"
+  },
+  {
+    "text": "Now grab it - Vortex 2",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_2"
+  },
+  {
+    "text": "cause of what happened that year",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "no five isnt my favourite i think 7 is but idrc - indesisiveness is me",
+    "sprite": "sheepish",
+    "voice": "mostlys"
+  },
+  {
+    "text": "go a little down",
+    "sprite": "look_happy",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "move cursor down a bit and to the left - we went lindt shopping once",
+    "sprite": "look_happy",
+    "voice": "jarona2"
+  },
+  {
+    "text": "then left 0.3 seconds",
+    "sprite": "look_happy",
+    "voice": "jarona3"
+  },
+  {
+    "text": "7 is cool, so much things with 7",
+    "sprite": "happy_less",
+    "voice": "kris"
+  },
+  {
+    "text": "you are on it",
+    "sprite": "happy_proud",
+    "voice": "its_all_yours"
+  },
+  {
+    "text": "the delay!!!!",
+    "sprite": "look_distressed",
+    "voice": "sorrytokeepyouladies"
+  },
+  {
+    "text": "like 7 billion dollars you owe me",
+    "sprite": "cheeky",
+    "voice": "all_according_to_all_according_to_plant"
+  },
+  {
+    "text": "yesh",
+    "sprite": "happy",
+    "voice": "yes"
+  },
+  {
+    "text": "no delay you had it when my message originally went through - i cant think of other references",
+    "sprite": "offended",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "move up 0.5",
+    "sprite": "look_happy",
+    "voice": "hereicome"
+  },
+  {
+    "text": "up 0.2",
+    "sprite": "look_happy",
+    "voice": "hereicomesanfrandisco_weak"
+  },
+  {
+    "text": "up a tiny bit - my favourite bar is crunchy chocolate",
+    "sprite": "look_happy",
+    "voice": "heyguys"
+  },
+  {
+    "text": "that's not me that's fungus, he's not creative enough to think of any references so he's feigning ignorance - my favorite color is salmon pink",
+    "sprite": "evil_laugh",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "you are on",
+    "sprite": "happy",
+    "voice": "itsme"
+  },
+  {
+    "text": "now you can click it",
+    "sprite": "happy_proud",
+    "voice": "with_your_powers_combined"
+  },
+  {
+    "text": "you have pick - emerald green is the correct answer",
+    "sprite": "happy_proud",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "can you tell who vortex's messages is?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "thisguysyourbestfriend"
+  },
+  {
+    "text": "we did it - emerald green is my favorite color dummy",
+    "sprite": "happy_proud",
+    "voice": "and_one_more_for_the_fans"
+  },
+  {
+    "text": "that was fungus",
+    "sprite": "cheeky",
+    "voice": "itsmeflowery"
+  },
+  {
+    "text": "you have picks in 1 3 6 and 9",
+    "sprite": "happy_shocked",
+    "voice": "take_that"
+  },
+  {
+    "text": "Fungus is next level troll",
+    "sprite": "evil_laugh",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "watch out lava - DDN if you know you know",
+    "sprite": "happy_worried",
+    "voice": "wow"
+  },
+  {
+    "text": "deepslate",
+    "sprite": "look_happy",
+    "voice": "minipeppers"
+  },
+  {
+    "text": "i forgot to sign",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "IRON IRON IRON",
+    "sprite": "happy_shocked",
+    "voice": "hereicomesanfrandisco_strong"
+  },
+  {
+    "text": "iron",
+    "sprite": "happy_shocked",
+    "voice": "hereicomesanfrandisc"
+  },
+  {
+    "text": "PAST IT",
+    "sprite": "happy_shocked",
+    "voice": "nonono"
+  },
+  {
+    "text": "of course you did fungus",
+    "sprite": "offended",
+    "voice": "forget_it"
+  },
+  {
+    "text": "back",
+    "sprite": "look_happy",
+    "voice": "go_home"
+  },
+  {
+    "text": "ok f5 it",
+    "sprite": "happy_proud",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "ok go way back we'll tell you how much to move",
+    "sprite": "look_happy",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "everyone stfu while i explain this like my utensils",
+    "sprite": "offended",
+    "voice": "take_that"
+  },
+  {
+    "text": "ok move 4 blocks",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_1"
+  },
+  {
+    "text": "forward like three blocks",
+    "sprite": "look_happy",
+    "voice": "hereicome"
+  },
+  {
+    "text": "stop it, fungus is lying",
+    "sprite": "offended",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "3 more",
+    "sprite": "look_happy",
+    "voice": "jarona1"
+  },
+  {
+    "text": "you are there",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "turn your head left - im right about directions this time",
+    "sprite": "happy_less",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "fungus is spamming there",
+    "sprite": "cheeky",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "you are here",
+    "sprite": "happy_proud",
+    "voice": "itsme"
+  },
+  {
+    "text": "Ok look left",
+    "sprite": "look_happy",
+    "voice": "jarona2"
+  },
+  {
+    "text": "iron break blocks",
+    "sprite": "happy_shocked",
+    "voice": "hereicomesanfrandisco_strong"
+  },
+  {
+    "text": "and craft",
+    "sprite": "happy_proud",
+    "voice": "with_your_powers_combined"
+  },
+  {
+    "text": "theres way more",
+    "sprite": "happy_shocked",
+    "voice": "and_one_more_for_the_fans"
+  },
+  {
+    "text": "there is 4 more block os iron",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "that's insane",
+    "sprite": "happy_shocked",
+    "voice": "blingo_blizzard"
+  },
+  {
+    "text": "look down a bit more",
+    "sprite": "look_happy",
+    "voice": "hey_raly"
+  },
+  {
+    "text": "turn left",
+    "sprite": "look_happy",
+    "voice": "go_home"
+  },
+  {
+    "text": "littl down",
+    "sprite": "look_happy",
+    "voice": "jarona3"
+  },
+  {
+    "text": "break blocks blocking your path",
+    "sprite": "look_happy",
+    "voice": "glue"
+  },
+  {
+    "text": "and to 2 more blocks left is iron near vain",
+    "sprite": "look_happy",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "ok you got it",
+    "sprite": "happy_proud",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "I know its been a while but I'm back after my long brb Its me NOLAN!",
+    "sprite": "happy_proud",
+    "voice": "heyguys"
+  },
+  {
+    "text": "you got it all",
+    "sprite": "happy_proud",
+    "voice": "youre_a_hero"
+  },
+  {
+    "text": "ok now left - we had chemistry today",
+    "sprite": "look_happy",
+    "voice": "jarona4"
+  },
+  {
+    "text": "you need to walk forward to collect it",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_2"
+  },
+  {
+    "text": "Bro I see your glasses poking out your cheating",
+    "sprite": "cheeky",
+    "voice": "dont_you_like_serving_humans"
+  },
+  {
+    "text": "walk foward to get one more",
+    "sprite": "look_happy",
+    "voice": "hereicome"
+  },
+  {
+    "text": "Nolan i love you",
+    "sprite": "kawaii",
+    "voice": "my_human"
+  },
+  {
+    "text": "Me too Fungus",
+    "sprite": "happy_less",
+    "voice": "its_so_human"
+  },
+  {
+    "text": "muah",
+    "sprite": "kawaii",
+    "voice": "flowery"
+  },
+  {
+    "text": "you are too much up look down",
+    "sprite": "look_happy",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "you need to look slightly down and right and walk forward you may need to jump - you ignored me asking about your essay mark",
+    "sprite": "look_happy",
+    "voice": "the_diner"
+  },
+  {
+    "text": "you got it",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "now foward- it's fine I forgive you",
+    "sprite": "happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "it seems mod only trusts alex",
+    "sprite": "sheepish",
+    "voice": "mostlys"
+  },
+  {
+    "text": "you got it all - you are very distracting",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "I would never lie",
+    "sprite": "happy_proud",
+    "voice": "no_way_its_your_children"
+  },
+  {
+    "text": "I am not fungus",
+    "sprite": "offended",
+    "voice": "its_all_in_a_name"
+  },
+  {
+    "text": "I trolled you only twice. Once with the world, and another time",
+    "sprite": "evil_laugh",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "Its me Alix bro, dig down until you die",
+    "sprite": "evil_laugh",
+    "voice": "take_that"
+  },
+  {
+    "text": "I am not fungus, I am Nolan",
+    "sprite": "happy_less",
+    "voice": "itsmeflowery"
+  },
+  {
+    "text": "fungus said he wasnt fungus - i made you a bracelet with a sneaky theme",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "Ok I'll sign with dark humor",
+    "sprite": "evil_laugh",
+    "voice": "theyre_eating_my_flesh"
+  },
+  {
+    "text": "Its me Alix bro, dig down until you lava",
+    "sprite": "evil_laugh",
+    "voice": "stingus"
+  },
+  {
+    "text": "that wasn't me you should go back - halloween ralsei",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "2 slots left is the crafting table - womeans rights is an opinion",
+    "sprite": "look_happy",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "crafter is third slot upper most row of inventory (that was nolan) - i would be shaggy",
+    "sprite": "look_happy",
+    "voice": "your_dad"
+  },
+  {
+    "text": "i was trying to say nolan said bro you have sticks right now - em would be the van",
+    "sprite": "sheepish",
+    "voice": "sorryabouttheguy"
+  },
+  {
+    "text": "it is 2 slots to the left",
+    "sprite": "look_happy",
+    "voice": "hey_boys"
+  },
+  {
+    "text": "you just missed it",
+    "sprite": "happy_distressed",
+    "voice": "nonono"
+  },
+  {
+    "text": "no 2 slots below - what do tires and lynch victims have in common, they hang around trees",
+    "sprite": "evil_laugh",
+    "voice": "all_according_to_all_according_to_plant"
+  },
+  {
+    "text": "you missed - my brother is your wife",
+    "sprite": "cheeky",
+    "voice": "kris"
+  },
+  {
+    "text": "you have bad mouse aim",
+    "sprite": "happy_questioning_mocking",
+    "voice": "great_style"
+  },
+  {
+    "text": "you got it! - bro you got it",
+    "sprite": "happy_proud",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "you selected the table",
+    "sprite": "happy",
+    "voice": "its_all_yours"
+  },
+  {
+    "text": "that's a furnace - bill Cypher ain't my boo",
+    "sprite": "happy_shocked",
+    "voice": "huh"
+  },
+  {
+    "text": "cobble is first slot of upper most row of inventory - special tree is important to me",
+    "sprite": "look_happy",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "why do you have 10 picks",
+    "sprite": "happy_questioning_mocking",
+    "voice": "try_my_flavor"
+  },
+  {
+    "text": "what is he trying to make",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "what is he trying to make!!!",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "a bit right",
+    "sprite": "look_happy",
+    "voice": "hereicomesanfrandisco_weak"
+  },
+  {
+    "text": "sligtest right",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_1"
+  },
+  {
+    "text": "just slightly more right - baby tree killed your family",
+    "sprite": "look_happy",
+    "voice": "minipeppers"
+  },
+  {
+    "text": "down and right by a smig",
+    "sprite": "look_happy",
+    "voice": "susie"
+  },
+  {
+    "text": "slight right you you will grab it",
+    "sprite": "look_happy",
+    "voice": "hereicomesanfrandisc"
+  },
+  {
+    "text": "little down",
+    "sprite": "look_happy",
+    "voice": "jarona1"
+  },
+  {
+    "text": "a bit down",
+    "sprite": "look_happy",
+    "voice": "jarona2"
+  },
+  {
+    "text": "slightly more down - baby tree is evil",
+    "sprite": "evil_laugh",
+    "voice": "thisguysyourbestfriend"
+  },
+  {
+    "text": "no down",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "down a little 0.15",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_1"
+  },
+  {
+    "text": "click",
+    "sprite": "happy_questioning_mocking",
+    "voice": "take_that"
+  },
+  {
+    "text": "you got it - i would live in a cave",
+    "sprite": "happy_proud",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "ok you have the cobblestone selected - p diffy",
+    "sprite": "happy",
+    "voice": "its_all_in_a_name"
+  },
+  {
+    "text": "ok now remove middle",
+    "sprite": "look_happy",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "they all have cobble stone",
+    "sprite": "happy_questioning_mocking",
+    "voice": "huh"
+  },
+  {
+    "text": "no, you have cobblestone in the middle you need to remove",
+    "sprite": "happy_distressed",
+    "voice": "sorrytokeepyouwaiting1"
+  },
+  {
+    "text": "no go lwft",
+    "sprite": "worried",
+    "voice": "go_home"
+  },
+  {
+    "text": "no you need to go slighty up and a lot left",
+    "sprite": "look_happy",
+    "voice": "hereicome"
+  },
+  {
+    "text": "you filled every slot move your cursor more left and slightly up - se had a sub in period b",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "no right",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "NO YOU HAD IT",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "you were there",
+    "sprite": "happy_less",
+    "voice": "smile_again"
+  },
+  {
+    "text": "yes you selcted it",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "nooo delay more right now - you hate that i have physics",
+    "sprite": "look_distressed",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "good right",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "now",
+    "sprite": "look_happy",
+    "voice": "jarona3"
+  },
+  {
+    "text": "you are on it mod",
+    "sprite": "happy_proud",
+    "voice": "youre_a_hero"
+  },
+  {
+    "text": "good",
+    "sprite": "happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "click it",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_2"
+  },
+  {
+    "text": "click again",
+    "sprite": "happy_questioning_mocking",
+    "voice": "jarona4"
+  },
+  {
+    "text": "click again",
+    "sprite": "cheeky",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "good good good",
+    "sprite": "happy_proud",
+    "voice": "great_style"
+  },
+  {
+    "text": "now you have furnace",
+    "sprite": "happy_proud",
+    "voice": "with_your_powers_combined"
+  },
+  {
+    "text": "there we go",
+    "sprite": "happy",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "its made now you just need to return the cobble stone to you inventory - russel bus driver",
+    "sprite": "look_happy",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "thats it",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "you are on the slot",
+    "sprite": "look_happy",
+    "voice": "itsme"
+  },
+  {
+    "text": "!redeem cheer",
+    "sprite": "cheeky",
+    "voice": "heyguys"
+  },
+  {
+    "text": "btw alix, I here by acknowledge you as superior - squidgame irl",
+    "sprite": "happy_proud",
+    "voice": "my_king"
+  },
+  {
+    "text": "@@NolanAnimates 'cheer' is not an available reward.",
+    "sprite": "happy_questioning_mocking",
+    "voice": "huh"
+  },
+  {
+    "text": "you areon iron",
+    "sprite": "happy_shocked",
+    "voice": "hereicomesanfrandisco_strong"
+  },
+  {
+    "text": "on iron",
+    "sprite": "happy_shocked",
+    "voice": "hereicomesanfrandisc"
+  },
+  {
+    "text": "NO!",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "NOT ME!",
+    "sprite": "happy_shocked",
+    "voice": "take_that"
+  },
+  {
+    "text": "ALIX IS TROLLING",
+    "sprite": "evil_laugh",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "Fungus knows due to our discord",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "iron is right where your cursor is",
+    "sprite": "look_happy",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "ok shift click the slot rn",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_1"
+  },
+  {
+    "text": "shift click the slot you are on iron",
+    "sprite": "happy_proud",
+    "voice": "with_your_powers_combined"
+  },
+  {
+    "text": "i would never troll bro wtf",
+    "sprite": "offended",
+    "voice": "forget_it"
+  },
+  {
+    "text": "0 sticks",
+    "sprite": "happy_worried",
+    "voice": "sorryabouttheguy"
+  },
+  {
+    "text": "ok two slots left is sticks",
+    "sprite": "look_happy",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "This is just deception at its finest - Player 4",
+    "sprite": "evil_laugh",
+    "voice": "all_according_to_all_according_to_plant"
+  },
+  {
+    "text": "yes 2 slots from cursor is sticks",
+    "sprite": "look_happy",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "no only you know about that - leaked home adress",
+    "sprite": "cheeky",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "you have sticks now",
+    "sprite": "happy_proud",
+    "voice": "give_to_you"
+  },
+  {
+    "text": "You have stick now take them and put them slight less bit up - owl",
+    "sprite": "look_happy",
+    "voice": "glue"
+  },
+  {
+    "text": "you did it",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "ok now up - cute girl",
+    "sprite": "look_happy",
+    "voice": "hereicome"
+  },
+  {
+    "text": "you have 8 iron btw",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "cap",
+    "sprite": "cheeky",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "the after stream is gonna be so funny",
+    "sprite": "evil_laugh",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "go up - cutest gal",
+    "sprite": "look_happy",
+    "voice": "get_a_chance_2"
+  },
+  {
+    "text": "woohoo!!! you got it!!!",
+    "sprite": "happy_proud",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "you have won",
+    "sprite": "happy_proud",
+    "voice": "youre_a_hero"
+  },
+  {
+    "text": "you need to see the stream",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "now go back and read chat so you can see what was happening in chat",
+    "sprite": "look_happy",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "we can all agree that if it wasn't for my input we wouldn't have finished",
+    "sprite": "happy_proud",
+    "voice": "my_king"
+  },
+  {
+    "text": "I think alex was the mvp",
+    "sprite": "happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "i couldnt let my spouse down so i tried my hardest *muscle emoji*",
+    "sprite": "happy_proud",
+    "voice": "with_your_powers_combined"
+  },
+  {
+    "text": "I'm the LVP",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "If it was not for fungus lying, mod would have trusted my input more",
+    "sprite": "offended",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "I put comedic value tho I hope",
+    "sprite": "sheepish",
+    "voice": "flowery"
+  },
+  {
+    "text": "I'm the medium valubale player",
+    "sprite": "happy_less",
+    "voice": "mostlys"
+  },
+  {
+    "text": "when we gonna do marriage in every game speedrun??",
+    "sprite": "kawaii",
+    "voice": "my_human"
+  },
+  {
+    "text": "i never saw the village",
+    "sprite": "happy_worried",
+    "voice": "sorryabouttheguy"
+  },
+  {
+    "text": "Fungus is the kid who does nothing on the school project but still gets an A",
+    "sprite": "cheeky",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "sorry",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "i didnt see it",
+    "sprite": "worried",
+    "voice": "huh"
+  },
+  {
+    "text": "SEE I TOLD YOU",
+    "sprite": "happy_shocked",
+    "voice": "take_that"
+  },
+  {
+    "text": "ME IT WAS MEE",
+    "sprite": "evil_laugh",
+    "voice": "itsme"
+  },
+  {
+    "text": "I did'nt see it",
+    "sprite": "worried",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "I SAID THERE WAS A VILLAGE",
+    "sprite": "offended",
+    "voice": "hereicomesanfrandisco_strong"
+  },
+  {
+    "text": "YOU GUYS MADE ME THE MONSTER",
+    "sprite": "happy_distressed",
+    "voice": "theyre_eating_my_flesh"
+  },
+  {
+    "text": "i saw no village but his eyes could be better",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "dude watch ths stream and see what happened",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "Now its time to beat the game",
+    "sprite": "happy_proud",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "he spent most of the time lying tbf",
+    "sprite": "offended",
+    "voice": "forget_it"
+  },
+  {
+    "text": "you guys gaslit so i gaslit back",
+    "sprite": "evil_laugh",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "no one else saw it but sorry regardless fungus",
+    "sprite": "happy_less",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "the point here is that i didn't lie",
+    "sprite": "happy_proud",
+    "voice": "its_all_in_a_name"
+  },
+  {
+    "text": "We are not killing no IRON GOlEM",
+    "sprite": "offended",
+    "voice": "take_that"
+  },
+  {
+    "text": "Go back in the stream to find out - Nolan",
+    "sprite": "look_happy",
+    "voice": "go_home"
+  },
+  {
+    "text": "i want to see you read chat",
+    "sprite": "happy_questioning_mocking",
+    "voice": "my_favorite_two"
+  },
+  {
+    "text": "my time to shine",
+    "sprite": "happy_proud",
+    "voice": "and_one_more_for_the_fans"
+  },
+  {
+    "text": "I think village clip was before",
+    "sprite": "look_happy",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "this was village",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "No the first time you skipped too was the village clip bro it was sunny out",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "like a minute",
+    "sprite": "look_happy",
+    "voice": "jarona1"
+  },
+  {
+    "text": "here ish i think",
+    "sprite": "sheepish",
+    "voice": "huh"
+  },
+  {
+    "text": "I was so innocent, you guys unwholesomed",
+    "sprite": "happy_distressed",
+    "voice": "sorrytokeepyouladies"
+  },
+  {
+    "text": "back a minute or 2",
+    "sprite": "look_happy",
+    "voice": "go_home"
+  },
+  {
+    "text": "I was so innocent, you guys unwholesomed",
+    "sprite": "happy_distressed",
+    "voice": "sorrytokeepyouladies"
+  },
+  {
+    "text": "vortex was trying to be helpful",
+    "sprite": "happy_less",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "i think i was the natural one",
+    "sprite": "happy_proud",
+    "voice": "its_all_in_a_name"
+  },
+  {
+    "text": "when i got you to panorama",
+    "sprite": "happy_proud",
+    "voice": "hereicomesanfrandisc"
+  },
+  {
+    "text": "bro WE told you NOT to move",
+    "sprite": "offended",
+    "voice": "take_that"
+  },
+  {
+    "text": "just keep watching",
+    "sprite": "look_happy",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "i think this is right spot",
+    "sprite": "sheepish",
+    "voice": "huh"
+  },
+  {
+    "text": "RIGHT THERE",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "after tree",
+    "sprite": "look_happy",
+    "voice": "leaf_it_to_me"
+  },
+  {
+    "text": "DUDE!",
+    "sprite": "happy_shocked",
+    "voice": "blingo_blizzard"
+  },
+  {
+    "text": "oh we missed it",
+    "sprite": "happy_distressed",
+    "voice": "nonono"
+  },
+  {
+    "text": "lol",
+    "sprite": "cheeky",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "did me saying to change fov help at all?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "Fungus was no liar",
+    "sprite": "happy_proud",
+    "voice": "its_all_in_a_name"
+  },
+  {
+    "text": "im blind i cant see dont blame me",
+    "sprite": "worried",
+    "voice": "sorryabouttheguy"
+  },
+  {
+    "text": "so unwholesome guys",
+    "sprite": "happy_distressed",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "You gotta trust my best friend",
+    "sprite": "happy_proud",
+    "voice": "my_human"
+  },
+  {
+    "text": "sorry fungus :(",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "i suck",
+    "sprite": "happy_less",
+    "voice": "forget_it"
+  },
+  {
+    "text": "tsk tsk tsk I thought mod was the blind one",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "i need glasses",
+    "sprite": "worried",
+    "voice": "huh"
+  },
+  {
+    "text": "Fungus should of defended himself more bro prob just gave up WHY DIDN't YOU TELL THEM TO GO ABCK IN STREAM!",
+    "sprite": "offended",
+    "voice": "take_that"
+  },
+  {
+    "text": "Nolan disc?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "heyguys"
+  },
+  {
+    "text": "no do it with the blindess effect",
+    "sprite": "cheeky",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "wait read chat to see the choas that was wrought with fungus trying to make references like me",
+    "sprite": "evil_laugh",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "do it with the blindess effect",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "cause they already decided I was the bad guy in their story, so i just gave them what they wanted",
+    "sprite": "happy_distressed",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "im sorry fungusssssssss",
+    "sprite": "happy_less",
+    "voice": "flowers_blooms_in_your_heart"
+  },
+  {
+    "text": "Smart, a revenge story",
+    "sprite": "happy_proud",
+    "voice": "thats_my_dreams"
+  },
+  {
+    "text": "The boy who cired wolf ahh stroy",
+    "sprite": "cheeky",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "you tried very hard jerios",
+    "sprite": "happy",
+    "voice": "smile_again"
+  },
+  {
+    "text": "I tried the hardest",
+    "sprite": "happy_proud",
+    "voice": "youre_a_hero"
+  },
+  {
+    "text": "fungus you gave up and started trolling",
+    "sprite": "evil_laugh",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "under 90??",
+    "sprite": "happy_questioning_mocking",
+    "voice": "huh"
+  },
+  {
+    "text": "Jesse :(",
+    "sprite": "worried",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "Nolan vc",
+    "sprite": "happy_questioning_mocking",
+    "voice": "heyguys"
+  },
+  {
+    "text": "You ruined my LIFE!!",
+    "sprite": "happy_distressed",
+    "voice": "theyre_eating_my_flesh"
+  },
+  {
+    "text": "I should of never gave you my power",
+    "sprite": "happy_distressed",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "BUT Fungus lying made is so frustrating mod could not trust me, AND alex had to confirm what I had said.",
+    "sprite": "offended",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "me?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "huh"
+  },
+  {
+    "text": "No Jesse",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "oh the ai video",
+    "sprite": "happy",
+    "voice": "flowery"
+  },
+  {
+    "text": "haha",
+    "sprite": "cheeky",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "no not haha",
+    "sprite": "offended",
+    "voice": "forget_it"
+  },
+  {
+    "text": "a sympathetic villain",
+    "sprite": "happy_proud",
+    "voice": "my_king"
+  },
+  {
+    "text": "mod am i your best friend?",
+    "sprite": "kawaii",
+    "voice": "my_human"
+  },
+  {
+    "text": "alex would be hero",
+    "sprite": "happy_proud",
+    "voice": "youre_a_hero"
+  },
+  {
+    "text": "My life is ruined my college denied me",
+    "sprite": "happy_distressed",
+    "voice": "sorryabouttheguy"
+  },
+  {
+    "text": "WHAT!",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "what would I be?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "would i be the sidekick?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "jarona1"
+  },
+  {
+    "text": "omg i ould not be a hero",
+    "sprite": "happy_distressed",
+    "voice": "im_falling"
+  },
+  {
+    "text": "JESSE!!!",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "no theres another",
+    "sprite": "happy_questioning_mocking",
+    "voice": "huh"
+  },
+  {
+    "text": "Why would you remind him",
+    "sprite": "offended",
+    "voice": "take_that"
+  },
+  {
+    "text": "that's awesome",
+    "sprite": "happy_proud",
+    "voice": "thatsgreat"
+  },
+  {
+    "text": "I mean me to remind him",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "i have another one",
+    "sprite": "cheeky",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "JESSE!",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "STOP!",
+    "sprite": "offended",
+    "voice": "nonono"
+  },
+  {
+    "text": "I SWEAR TO GOD",
+    "sprite": "happy_distressed",
+    "voice": "theyre_eating_my_flesh"
+  },
+  {
+    "text": "i can link it",
+    "sprite": "happy_proud",
+    "voice": "give_to_you"
+  },
+  {
+    "text": "NICK DON'T",
+    "sprite": "worried",
+    "voice": "nonono"
+  },
+  {
+    "text": "i had a sympathetic backstory tho",
+    "sprite": "happy_less",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "mod you didnt answer my question am i your best friend?",
+    "sprite": "kawaii",
+    "voice": "my_human"
+  },
+  {
+    "text": "also will you ever go back and read through chat from when you were blindfolded?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "i feel like Julius Caesar",
+    "sprite": "happy_proud",
+    "voice": "my_king"
+  },
+  {
+    "text": "i think you misattributed a few messages",
+    "sprite": "happy_questioning_mocking",
+    "voice": "its_all_in_a_name"
+  },
+  {
+    "text": "damm",
+    "sprite": "happy_distressed",
+    "voice": "im_falling"
+  },
+  {
+    "text": "NO END",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "i sent it its loadiing",
+    "sprite": "happy_worried",
+    "voice": "sorrytokeepyouwaiting1"
+  },
+  {
+    "text": "PLZ",
+    "sprite": "kawaii",
+    "voice": "smile_again"
+  },
+  {
+    "text": "its sent",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "Thats a lie it innaporite",
+    "sprite": "offended",
+    "voice": "forget_it"
+  },
+  {
+    "text": "its just super funny",
+    "sprite": "cheeky",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "its got tons of racist stuff its not funny",
+    "sprite": "worried",
+    "voice": "sorryabouttheguy"
+  },
+  {
+    "text": "Its funny how the first time i tried to reintroduce myself, you were BLIND LOL!",
+    "sprite": "evil_laugh",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "not stream or discord server apporiate",
+    "sprite": "worried",
+    "voice": "sorryaboutthatguys"
+  },
+  {
+    "text": "put it on seperate monitor to check it if you need",
+    "sprite": "look_happy",
+    "voice": "im_only_trying_to_help_you"
+  },
+  {
+    "text": "No if it plays on stream even a second of audio you will be cooked",
+    "sprite": "happy_worried",
+    "voice": "sorrytokeepyouwaiting2"
+  },
+  {
+    "text": "it wont",
+    "sprite": "happy_proud",
+    "voice": "yes"
+  },
+  {
+    "text": "Yeah I'm with Joner on this",
+    "sprite": "happy",
+    "voice": "the_boys"
+  },
+  {
+    "text": "oh yeah I trolled you with the world when you switched POV",
+    "sprite": "evil_laugh",
+    "voice": "what_a_predictable_creature"
+  },
+  {
+    "text": "it got past the ai barriers",
+    "sprite": "happy_proud",
+    "voice": "all_according_to_all_according_to_plant"
+  },
+  {
+    "text": "Those barriers are easily trickable",
+    "sprite": "cheeky",
+    "voice": "its_all_in_a_name"
+  },
+  {
+    "text": "Theres tons of work arounds to get around GPT",
+    "sprite": "happy_questioning_mocking",
+    "voice": "mysterious_wind"
+  },
+  {
+    "text": "but how could it possibly be bad",
+    "sprite": "happy_questioning_mocking",
+    "voice": "say_that_again"
+  },
+  {
+    "text": "yeah but i couldnt",
+    "sprite": "sheepish",
+    "voice": "sorryaboutthatlittleguy"
+  },
+  {
+    "text": "you know how to hide a 110lbs chicken",
+    "sprite": "cheeky",
+    "voice": "try_my_flavor"
+  },
+  {
+    "text": "go back to the part where you switched to the pov",
+    "sprite": "look_happy",
+    "voice": "go_home"
+  },
+  {
+    "text": "YES!",
+    "sprite": "happy_shocked",
+    "voice": "yes"
+  },
+  {
+    "text": "mod you also never said when were gonna get married in every game",
+    "sprite": "kawaii",
+    "voice": "my_human"
+  },
+  {
+    "text": "Nolan vc?",
+    "sprite": "happy_questioning_mocking",
+    "voice": "heyguys"
+  },
+  {
+    "text": "dammm",
+    "sprite": "happy_distressed",
+    "voice": "im_falling"
+  },
+  {
+    "text": "so early",
+    "sprite": "happy_less",
+    "voice": "huh"
+  },
+  {
+    "text": "bro forgot already",
+    "sprite": "cheeky",
+    "voice": "ja_kidding"
+  },
+  {
+    "text": "aint no way",
+    "sprite": "happy_shocked",
+    "voice": "wow"
+  },
+  {
+    "text": "this is gonna be so funny",
+    "sprite": "evil_laugh",
+    "voice": "heh_it_s_my_jarona"
+  },
+  {
+    "text": "joner leave mod alone",
+    "sprite": "offended",
+    "voice": "take_that"
+  },
+  {
+    "text": "of nolan",
+    "sprite": "happy_questioning_mocking",
+    "voice": "huh"
+  },
+  {
+    "text": "yes the fov when you switches to quake pro",
+    "sprite": "happy_proud",
+    "voice": "thats_my_dreams"
+  }
+]
