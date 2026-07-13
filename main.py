@@ -9,7 +9,7 @@ from sentence_transformers.util import cos_sim
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Load example messages
-with open("flowery.json", "r") as f:
+with open("flowery.json", "r", encoding="utf-8") as f:
     examples = json.load(f)
 
 texts = [e["text"] for e in examples]
@@ -39,5 +39,5 @@ best_example = examples[best_index]
 print(best_example)
 
 # Write to a file for streamer.bot to read
-with open("out.txt", "w") as file:
+with open("out.txt", "w", encoding="utf-8") as file:
     file.write(best_example["sprite"] + "\n" + best_example["voice"])

@@ -19,14 +19,14 @@ def select_from_list(title, options):
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-with open("messages.txt", "r") as f:
+with open("messages.txt", "r", encoding="utf-8") as f:
     messages = f.readlines()
 
 print(f"{len(messages)} messages loaded.")
 
 # Load dataset
 try:
-    with open("../flowery.json", "r") as f:
+    with open("../flowery.json", "r", encoding="utf-8") as f:
         examples = json.load(f)
 
 except FileNotFoundError:
@@ -132,5 +132,5 @@ for message in messages:
         already_done.add(message.lower())
 
         print("Saved.")
-    with open("../flowery.json", "w") as f:
+    with open("../flowery.json", "w", encoding="utf-8") as f:
         json.dump(examples, f, indent=2)

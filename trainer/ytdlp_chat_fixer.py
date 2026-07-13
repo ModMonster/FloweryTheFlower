@@ -18,7 +18,7 @@ def extract_text_from_runs(runs):
 def convert_chat(input_file):
     messages = []
 
-    with open(input_file, "r") as f:
+    with open(input_file, "r", encoding="utf-8") as f:
         for line_number, line in enumerate(f, start=1):
             try:
                 data = json.loads(line)
@@ -100,7 +100,7 @@ if __name__ == "__main__":
     print("Cleaning...")
     messages = clean_messages(messages)
     print(f"Keeping {len(messages)} messages")
-    with open("messages.txt", "w") as f:
+    with open("messages.txt", "w", encoding="utf-8") as f:
         for message in messages:
             f.write(message + "\n")
 
