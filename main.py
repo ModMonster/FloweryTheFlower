@@ -4,6 +4,9 @@ import os
 import pickle
 from sentence_transformers import SentenceTransformer
 from sentence_transformers.util import cos_sim
+import requests
+import urllib
+import playsound3
 
 # holy schnitzel modmonster is using ai guys :O
 model = SentenceTransformer("all-MiniLM-L6-v2")
@@ -39,5 +42,20 @@ best_example = examples[best_index]
 print(best_example)
 
 # Write to a file for streamer.bot to read
-with open("out.txt", "w", encoding="utf-8") as file:
-    file.write(best_example["sprite"] + "\n" + best_example["voice"])
+# with open("out.txt", "w", encoding="utf-8") as file:
+#     file.write(best_example["sprite"] + "\n" + best_example["voice"])
+
+# Write text box image
+response = requests.get(
+    f"https://www.demirramon.com/gen/undertale_text_box.gif?message=character%3Ddeltarune-flowery+mode%3Ddarkworld+box%3Ddeltarune+expression%3D{best_example["sprite"]}+{urllib.parse.quote(message)}",
+)
+
+response.raise_for_status()
+
+with open("out-textbox.gif", "wb") as f:
+    f.write(response.content)
+
+print(response.url)
+
+# Play sound
+playsound3.playsound(f"voices/{best_example["voice"]}.wav")
